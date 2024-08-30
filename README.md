@@ -39,11 +39,7 @@ The chair of this working group is Malvika Sharan, working as a consultant on th
 - The Short-term goal of this WG is to build a shared understanding of open science and reproducibility in data science and AI among all members of the DSWB partners
 - The long-term goal is to build capacity for the DSWB partners and their networks to extend the impact of open science and reproducibility practices in advancing the impact of data science and AI
 
-### 🎯 Roadmap
----
-
-- [ ] Add a README file
-- [ ] Provide links and resources
+In due course, we will provide a roadmap for the WG on this repository.
 
 ## Contributing
 
