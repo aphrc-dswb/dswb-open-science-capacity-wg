@@ -1,168 +1,61 @@
-# Template for setting up reproducible projects
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# Open Science and Capacity Building Working Group - Data Science Without Borders
 
-*This is a template for setting up a research or data science project online, such as on GitHub.*
+*Data Science Without Borders project hosts an Open Science and Capacity Building Working Group for researchers in African countries.*  
 
-## About this Repository
+## Background
 
-This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
+Data Science Without Borders (DSWB) is an international initiative, funded by the Wellcome Trust and led by the African Population and Health Research Center (APHRC). This project has three overarching objectives: to strengthen data systems in Pathfinder countries, to create a sustainable environment for collaborative AI/ML platforms, and to create a user-friendly platform for AI and Machine Learning (AI/ML) tools. The impact of inequality in data availability and access is evident, particularly in resource-limited settings like many African nations. This African institution-led initiative will leverage artificial intelligence and machine learning (AI/ML) to bridge existing gaps in data accessibility, infrastructure, and expertise. It aims to foster a collaborative environment that empowers African nations to harness the full potential of AI/ML for improving health outcomes. 
+ 
+The DSWB research consortium will be working closely with three Pathfinder Institutions, namely the Armauer Hansen Research Institute (AHRI), the Institute for Health Research, Epidemiological Surveillance (IRESSEF), and the Training and Douala General Hospital (DGH) based in the Pathfinder countries (Ethiopia, Senegal and Cameroon respectively). London School of Hygiene & Tropical Medicine (LSHTM) and the Committee on Data of the International Science Council (CODATA) will collaborate as delivery partners providing support in platform development. The Africa CDC will provide key technical oversight for the project, supporting country engagement, identification of priority use cases and provision of guidance for effective policy engagement. 
 
-This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update the information on your README page with information about your project.
+A Working Group hosted by this project in 2024-2025 is the **Open Science and Capacity Building Working Group**.
 
-### Using this Repository
+This repository centralised all resources relevant to this Working group (WG).
 
-![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
+## Goals of the Open Science and Capacity Building Working Group
 
-**Image Description:**
+DSWB can only achieve its ambitious goals if it is delivered by health and AI/ML experts working together. 
 
-Your streamlined project setup is just three steps away:
-* Step 1: Click 'Use this template' on the top right-hand side. Follow it up by clicking 'Create a new repository.'
-* Step 2: In the subsequent window, set the 'owner' (yourself or a GitHub organisation) and give your project repository a descriptive name.
-* Step 3: Finalise by clicking 'Create repository' at the bottom right-hand side.
+This WG will ensure that everyone in the DSWB partnership network understands - to the extent that they need to – best practices such as open science, computational reproducibility, data sharing practices, AI standards, project management, cross-team collaboration and technical translation skills, and responsible research and innovation practices.
 
-After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
+### Connection with _The Turing Way_ and other Open Science communities
 
-<!--If reusing this repository, delete this section -->
-## About README
+The WG will support the knowledge-building and adoption of open science practices and approaches in DSWB through active connections with existing open science communities and projects.
 
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
+_The Turing Way_ will be used as a primary reference for curating and sharing practices, as well as identifying gaps where resources can be developed by the DSWB members in collaboration with other interested practitioners.
 
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
+Community managers and trainers in this working group will be onboarded to become active contributors to The Turing Way, acting as a bidirectional conduit to implement best practices for reproducible, ethical, inclusive and collaborative data science. They will support DSWB community members in the documentation and sharing of best practices via _The Turing Way_ making it useful for their contexts.
 
-When reusing, you can delete most content written here, and use this MarkDown template to add content about your project:
+The chair of this working group is Malvika Sharan, working as a consultant on the project.
 
-```
-# Project Quick Start
+## Primary deliverables
 
-*Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.*
+- D1. Engagement with Communities of Practice (CoP) for data science initiatives involved in DSWB. 
+- D2. Contribute to the development of standard operating procedures (SOPs) and ways of working for the collaborators and stakeholders, drawing examples and resources from open science communities and projects.
+- D3. Develop a context-specific roadmap to support the adoption of _The Turing Way_ and develop relevant resources, infrastructure and community to involve researchers from Pathfinder countries in DSWB efforts.  
 
-*A sentence summarising what to expect from this repository*  
+## Goals
 
-## Vision and Mission
+- The Short-term goal of this WG is to build a shared understanding of open science and reproducibility in data science and AI among all members of the DSWB partners
+- The long-term goal is to build capacity for the DSWB partners and their networks to extend the impact of open science and reproducibility practices in advancing the impact of data science and AI
 
-- **Vision:** One sentence capturing the project's overarching vision.
-- **Mission:** One sentence defining the project's goals and target audience.
+### 🎯 Roadmap
+---
 
-## About
-
-Motivation and background in a nutshell.
-
-## Roadmap & Milestones
-
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
-
-## The Team
-
-- **Members:** List of team members and their roles in the project.
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
+- [ ] Add a README file
+- [ ] Provide links and resources
 
 ## Contributing
 
-- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
-- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team.
-
-## Licensing
-
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
-
-## Citing & Acknowledgement
-
-- **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
-
-## Contact
-
-- **Reach Out:** Contact details for questions, feedback, or ideas.
-
-```
-
-
-<!--If reusing this repository, delete this section -->
-
-## Repo Structure
-
-Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
-
-```
-├── LICENSE
-├── README.md          <- The top-level README for users of this project.
-├── CODE_OF_CONDUCT.md <- Guidelines for users and contributors of the project.
-├── CONTRIBUTING.md    <- Information on how to contribute to the project.
-├── data
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. The naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
-├── project_management <- Meeting notes and other project planning resources
-│
-├── src                <- Source code for use in this project.
-│   │
-│   ├── data           <- Scripts to download or generate data
-│   │   └── make_dataset.py
-│   │
-│   ├── models         <- Scripts to train models and then use trained models to make
-│   │   │                 predictions
-│   │   ├── predict_model.py
-│   │   └── train_model.py
-│   │
-│   └── visualisation  <- Scripts to create exploratory and results-oriented visualisations
-│       └── visualise.py
-└──
-```
+- **Guidelines:** Contribution Guidelines for contributors will be developed in due course
+- **Code of Conduct:** Code of Conduct will be adopted in agreement with the DSWB members
 
 **Maintainers**
 
-This repository has been set up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
-
-As an open source repository, anyone beyond these teams is very welcome to reuse this template for setting up their projects.
+This repository has been set up and maintained by Malvika Sharan to support the work of WG under DSWB.
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
-🎯 Roadmap
----
-
-### Checklist for setting an online repository 
-
-- [ ] Add a README file
-- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [ ] Add a [LICENSE](LICENSE.md)
-- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [ ] Install [all-contributors](https://allcontributors.org/) bot
-- [ ] .gitignore file (choose from a template)
-- [ ] Issue templates
-    - [ ] Optionally Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
-- [ ] Create a directory with files for project management (meetings, reports, proposals)
-- [ ] Create a directory with files for communications
-- [ ] Create a directory for research analysis
-- [ ] Create a directory for research results/outcomes to share (?)
-- [ ] Create a directory for ethics approval and project policies
-- [ ] Create a directory with files for stakeholders' info and the nature of engagement
-- [ ] Connect repo with Zenodo
-- [ ] Add cff file for citation
-- [ ] Add badges
-
-📫 Contact
----
-
-For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
 ♻️ License
 ---
@@ -176,32 +69,4 @@ licensor endorses you or your use and with no additional restrictions.
 🤝 Acknowledgement
 ---
 
-This repository has been created for anyone to reuse -- please attribute us as:
-> This repository uses the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-malvikasharan" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=EKaroune" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://www.aleesteele.com"><img src="https://avatars.githubusercontent.com/u/18509789?v=4?s=100" width="100px;" alt="Anne Lee Steele"/><br /><sub><b>Anne Lee Steele</b></sub></a><br /><a href="#ideas-aleesteele" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=aleesteele" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt="Vicky Hellon"/><br /><sub><b>Vicky Hellon</b></sub></a><br /><a href="#ideas-vhellon" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=vhellon" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://jending.com"><img src="https://avatars.githubusercontent.com/u/5104098?v=4?s=100" width="100px;" alt="Jennifer Ding"/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="#content-dingaaling" title="Content">🖋</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=dingaaling" title="Documentation">📖</a> <a href="#ideas-dingaaling" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center"><a href="http://lappland.io"><img src="https://avatars.githubusercontent.com/u/51458?v=4?s=100" width="100px;" alt="Hilmar Lapp"/><br /><sub><b>Hilmar Lapp</b></sub></a><br /><a href="https://github.com/alan-turing-institute/reproducible-project-template/issues?q=author%3Ahlapp" title="Bug reports">🐛</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This repository uses the template created by Malvika and members of *The Turing Way* team, shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
