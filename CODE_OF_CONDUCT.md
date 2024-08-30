@@ -1,14 +1,12 @@
-# Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduct (CoC)
 
-**NOTE: PLEASE UPDATE THIS FOR YOUR OWN REPO**
+**This is not an approved CoC for this repository - we will confirm a group-approved CoC soon!**
 
 > Code of Conduct, commonly abbreviated as “CoC”, is a set of rules outlining the social norms, rules, & responsibilities of an individual project, party or organization.
 
-*This is an example of a Code of Conduct (CoC) provided as a starting point for an open source project. When reusing this repo, you should edit and adapt this to meet the needs of your specific team. If you want to apply an institutional CoC to a project repo make sure that all members involved are employees of the same organisation, such as for the Turing. When external members are involved, you might want to use a hybrid approach, as used by the [Open Research Community Management Team](https://github.com/alan-turing-institute/open-research-community-management/blob/main/CODE_OF_CONDUCT.md#122-if-the-breach-is-considered-outside-the-scope-of-this-code-of-conduct). There are many more examples to choose from, so please also check other sources.*
-
 This Code of Conduct document outlines our expectations for 
 participants within the team as well as this online repository (project).
-We also provide steps to reporting any concern, uncomfortable situation 
+We also provide steps for reporting any concern, uncomfortable situation 
 or unacceptable behaviour by other participants. 
 We are committed to providing a welcoming, collaborative and inspiring experience 
 for all and expect our code of conduct to be honoured.
@@ -19,17 +17,17 @@ The Code of Conduct used in this document is selected from the options provided 
 
 We have further adopted the language and content that reflects our values and needs in the project.
 To learn more about why we recommend creating a CODE_OF_CONDUCT.md file, please read the [Participation Guidelines](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-participation.html) chapter in *The Turing Way* Guide for Project Design.
-It is recommended to select and adapt a well established Code of Conduct. Many openly developed projects have a Code of Conduct in place that often is openly licensed and can be re-used and adapted for your project. 
+It is recommended to select and adopt a well-established Code of Conduct. Many openly developed projects have a Code of Conduct in place that often is openly licensed and can be re-used and adapted for your project. 
 *The Turing Way* [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
 <!--Delete these lines when reusing this repository-->
 
 ### Diversity Statement
 
 We encourage everyone to participate and are committed to building a project
-for all. Although we will fail at times, we seek to treat everyone both as
+for all. Although we will fail at times, we seek to treat everyone as
 fairly and equally as possible. Whenever a member has made a mistake, we
 expect them to take responsibility for it. If someone has been harmed or
-offended, it is our responsibility to listen carefully and respectfully, and do
+offended, it is our responsibility to listen carefully and respectfully and do
 our best to right the wrong.
 
 Although this list cannot be exhaustive, we explicitly honour diversity in age,
@@ -107,14 +105,7 @@ decisions when appropriate.
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
 by contacting the Team Lead.
-For **this** template repo related communications, please email Malvika Sharan (msharan@turing.ac.uk).
-
-**When reusing this repo please replace information by adding NAME AND CONTACT INFORMATION appropriate for your project.**. 
-
-To report an issue involving the team lead, please email directly to the Programme Lead.
-For **this** template repo related communications, please email Kirstie Whitaker (kwhitaker@turing.ac.uk).
-
-**When reusing this repo please replace information by adding NAME AND CONTACT INFORMATION appropriate for your project.**. 
+For **this** template repo-related communications, please email Malvika Sharan (malvika@we-are-ols.org).
 
 In your report please include:
 
@@ -140,7 +131,7 @@ We will respect confidentiality requests all the time for the purpose of protect
 After receiving a report, the community leaders (or person handling the report), team lead or programme director in this case, will review the incident report and follow this process to determine the cause and consequences that violated this Code of Conduct and take further actions:
 
 Community leaders will reach out to the reporter to ask for further information if the submitted report is not complete or needs some additional context.
-Community leaders will also ensure that person impacted or harmed by the reported incident is safe and identify how they can be further supported.
+Community leaders will also ensure that the person impacted or harmed by the reported incident is safe and identify how they can be further supported.
 
 A meeting with the reportee will be scheduled where the person handling the report will discuss four questions:
 - What happened?
@@ -194,8 +185,8 @@ This code of conduct is based on the Open Code of Conduct from the [TODO Group](
 version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
 
 The report handling process has been derived from the Eastern University 
-Academic Charter School (EUACS) Student Restorative Justice based Code of Conduct derived from the work of Ted Wachtel
-at International Institute for Restorative Practices (IIRP).
+Academic Charter School (EUACS) Student Restorative Justice-based Code of Conduct derived from the work of Ted Wachtel
+at the International Institute for Restorative Practices (IIRP).
 Restorative Practice Principles are based on Amstutz and Mullet (2005). Restorative Discipline for Schools, pp. 25-26.
 
 Community Impact Guidelines are inspired by [Mozilla's code of conduct
