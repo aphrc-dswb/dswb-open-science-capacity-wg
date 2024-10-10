@@ -48,7 +48,7 @@ In due course, we will provide a roadmap for the WG on this repository.
 
 **Maintainers**
 
-This repository has been set up and maintained by Malvika Sharan to support the work of WG under DSWB.
+This repository has been set up and maintained by Malvika Sharan and Precious Onyewuchi to support the work of WG under DSWB.
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
