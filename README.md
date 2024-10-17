@@ -65,4 +65,4 @@ licensor endorses you or your use and with no additional restrictions.
 🤝 Acknowledgement
 ---
 
-This repository uses the template created by Malvika and members of *The Turing Way* team, shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
+This repository uses the template created by Malvika and members of *The Turing Way* team, shared under CC-BY 4.0 for reuse: https://github.com/the-turing-way/reproducible-project-template.
