@@ -1,22 +1,42 @@
 # Open Science and Capacity Building Working Group - Data Science Without Borders
 
-*Data Science Without Borders project hosts an Open Science and Capacity Building Working Group for researchers in African countries.*  
+*The Data Science Without Borders project hosts an Open Science and Capacity Building Working Group for researchers in African countries.*  
+
+Say hi [on Discord](https://discord.com/invite/9Mx2fMjS4g) || Join our next [meeting](https://arewemeetingyet.com/Lagos/2024-10-17/14:00/b/Open%20Science%20Capacity%20Work%20Group%20Meeting#eyJ1cmwiOiJodHRwczovL3VzMDJ3ZWIuem9vbS51cy9qLzg2MDEzMjY3NzY1P3B3ZD1OWGcyVG5reU1pdGthMjl5YUU0Mk5HeFRLM3BNZHowOSAifQ==)
 
 ## Background
 
 Data Science Without Borders (DSWB) is an international initiative, funded by the Wellcome Trust and led by the African Population and Health Research Center (APHRC). This project has three overarching objectives: to strengthen data systems in Pathfinder countries, to create a sustainable environment for collaborative AI/ML platforms, and to create a user-friendly platform for AI and Machine Learning (AI/ML) tools. The impact of inequality in data availability and access is evident, particularly in resource-limited settings like many African nations. This African institution-led initiative will leverage artificial intelligence and machine learning (AI/ML) to bridge existing gaps in data accessibility, infrastructure, and expertise. It aims to foster a collaborative environment that empowers African nations to harness the full potential of AI/ML for improving health outcomes. 
- 
-The DSWB research consortium will be working closely with three Pathfinder Institutions, namely the Armauer Hansen Research Institute (AHRI), the Institute for Health Research, Epidemiological Surveillance (IRESSEF), and the Training and Douala General Hospital (DGH) based in the Pathfinder countries (Ethiopia, Senegal and Cameroon respectively). London School of Hygiene & Tropical Medicine (LSHTM) and the Committee on Data of the International Science Council (CODATA) will collaborate as delivery partners providing support in platform development. The Africa CDC will provide key technical oversight for the project, supporting country engagement, identification of priority use cases and provision of guidance for effective policy engagement. 
 
-A Working Group hosted by this project in 2024-2025 is the **Open Science and Capacity Building Working Group**.
+We would be working with three Pathfinder Institutions:
 
-This repository centralised all resources relevant to this Working group (WG).
+ - the Armauer Hansen Research Institute (AHRI) in Ethiopia 🇪🇹
+ - the Institute for Health Research, Epidemiological Surveillance (IRESSEF) in Senegal 🇸🇳
+ - and the Training and Douala General Hospital (DGH) in Cameroon 🇨🇲
 
-## Goals of the Open Science and Capacity Building Working Group
+The London School of Hygiene & Tropical Medicine (LSHTM) and the Committee on Data of the International Science Council (CODATA) collaborate as delivery partners providing support in platform development. The Africa CDC provides key technical oversight for the project, supporting country engagement, identification of priority use cases and provision of guidance for effective policy engagement. 
 
-DSWB can only achieve its ambitious goals if it is delivered by health and AI/ML experts working together. 
+This project will host the **Open Science and Capacity Building Working Group** from **2024 to 2025**. 
 
-This WG will ensure that everyone in the DSWB partnership network understands - to the extent that they need to – best practices such as open science, computational reproducibility, data sharing practices, AI standards, project management, cross-team collaboration and technical translation skills, and responsible research and innovation practices.
+
+## Our Goals 
+
+- The short-term goal of this WG is to build a shared understanding of open science and reproducibility in data science and AI among all members of the DSWB partners.
+- The long-term goal is to build capacity for the DSWB partners and their networks to extend the impact of open science and reproducibility practices in advancing the impact of data science and AI.
+
+Our workgroup aims to educate our various partners on best practices such as:
+
+- open science
+- computational reproducibility
+- data sharing practices
+- AI standards
+- project management
+- cross-team collaboration
+- technical translation skills
+- responsible research
+- and innovation practices.
+
+In due course, we will provide a roadmap for the WG on this repository. DSWB can only achieve its ambitious goals if it is delivered by health and AI/ML experts working together. 
 
 ### Connection with _The Turing Way_ and other Open Science communities
 
@@ -30,25 +50,18 @@ The chair of this working group is Malvika Sharan, working as a consultant on th
 
 ## Primary deliverables
 
-- D1. Engagement with Communities of Practice (CoP) for data science initiatives involved in DSWB. 
-- D2. Contribute to the development of standard operating procedures (SOPs) and ways of working for the collaborators and stakeholders, drawing examples and resources from open science communities and projects.
-- D3. Develop a context-specific roadmap to support the adoption of _The Turing Way_ and develop relevant resources, infrastructure and community to involve researchers from Pathfinder countries in DSWB efforts.  
-
-## Goals
-
-- The Short-term goal of this WG is to build a shared understanding of open science and reproducibility in data science and AI among all members of the DSWB partners
-- The long-term goal is to build capacity for the DSWB partners and their networks to extend the impact of open science and reproducibility practices in advancing the impact of data science and AI
-
-In due course, we will provide a roadmap for the WG on this repository.
+- **D1:** Engagement with Communities of Practice (CoP) for data science initiatives involved in DSWB. 
+- **D2:** Contribute to the development of standard operating procedures (SOPs) and ways of working for the collaborators and stakeholders, drawing examples and resources from open science communities and projects.
+- **D3:** Develop a context-specific roadmap to support the adoption of _The Turing Way_ and develop relevant resources, infrastructure and community to involve researchers from Pathfinder countries in DSWB efforts.  
 
 ## Contributing
 
 - **Guidelines:** Contribution Guidelines for contributors will be developed in due course
 - **Code of Conduct:** Code of Conduct will be adopted in agreement with the DSWB members
 
-**Maintainers**
+### Maintainers
 
-This repository has been set up and maintained by Malvika Sharan and Precious Onyewuchi to support the work of WG under DSWB.
+This repository has been set up and maintained by Malvika Sharan (@malvikasharan) and Precious Onyewuchi (@preshh0) to support the work of WG under DSWB.
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
