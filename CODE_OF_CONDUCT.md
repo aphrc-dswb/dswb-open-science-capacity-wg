@@ -1,38 +1,21 @@
-# Contributor Covenant Code of Conduct (CoC)
 
-**This is not an approved CoC for this repository - we will confirm a group-approved CoC soon!**
+# Contributor Covenant Code of Conduct
 
-> Code of Conduct, commonly abbreviated as “CoC”, is a set of rules outlining the social norms, rules, & responsibilities of an individual project, party or organization.
+## Our Pledge
 
-This Code of Conduct document outlines our expectations for 
-participants within the team as well as this online repository (project).
-We also provide steps for reporting any concern, uncomfortable situation 
-or unacceptable behaviour by other participants. 
-We are committed to providing a welcoming, collaborative and inspiring experience 
-for all and expect our code of conduct to be honoured.
+We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, caste, colour, religion, or sexual
+identity and orientation.
 
-We have further adopted the language and content that reflects our values and needs in the project.
-To learn more about why we recommend creating a CODE_OF_CONDUCT.md file, please read the [Participation Guidelines](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-participation.html) chapter in *The Turing Way* Guide for Project Design.
-
-### Diversity Statement
-
-We encourage everyone to participate and are committed to building a project
-for all. Although we will fail at times, we seek to treat everyone as
-fairly and equally as possible. Whenever a member has made a mistake, we
-expect them to take responsibility for it. If someone has been harmed or
-offended, it is our responsibility to listen carefully and respectfully and do
-our best to right the wrong.
-
-Although this list cannot be exhaustive, we explicitly honour diversity in age,
-gender, gender identity or expression, culture, ethnicity, language, national
-origin, political beliefs, profession, race, religion, sexual orientation,
-socioeconomic status, and technical ability. We will not tolerate discrimination
-based on any of the protected characteristics above, including participants with
-any visible or invisible disabilities.
+We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.
 
 ## Our Standards
 
-Examples of behaviour that contributes to a positive environment for our
+Examples of behavior that contributes to a positive environment for our
 community include:
 
 * Demonstrating empathy and kindness toward other people
@@ -40,147 +23,109 @@ community include:
 * Giving and gracefully accepting constructive feedback
 * Accepting responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+* Focusing on what is best not just for us as individuals, but for the overall
+  community
 
 Examples of unacceptable behaviour include:
 
+* The use of offensive language or imagery, and sexual attention or advances of
+  any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
+* Publishing others' private information, such as a physical or email address,
+  without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
-* The use of sexualised language or imagery, and sexual attention or
-  advances of any kind
 
-## Scope
-
-This Code of Conduct applies to all members participating in the activities, 
-events and processes taking place within the scope of this repository. 
-Specifically, our Code of Conduct applies to any conduct:
-- in interactions within the team/community maintaining this repo
-- at any team activity, communication or event related to this repo
-- outside the team activity when a team member is representing this project
-- by members outside the team engaging on this GitHub repository.
-
-This Code of Conduct also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-a representative at an online or offline event.
-
-## Enforcement 
-
-Instances of harassing, abusive, or otherwise unacceptable behaviour should be
-reported to the community leaders responsible for enforcement.
-
-All reports will be reviewed and investigated promptly and fairly.
-
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
-Together we strive to foster an environment where everyone feels valued, respected, and included.
-
+## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behaviour and will take appropriate and fair corrective, restorative and 
-action in response to any behaviour that they deem inappropriate, threatening, offensive,
+acceptable behaviour and will take appropriate and fair corrective action in
+response to any behaviour that they deem inappropriate, threatening, offensive,
 or harmful.
-
-### Enforcement Responsibilities
 
 Community leaders have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
-## Reporting Incident
+## Scope
 
-If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
-by contacting the Team Lead.
-For **this** template repo-related communications, please email Malvika Sharan (malvika@we-are-ols.org).
+This Code of Conduct applies within all community spaces and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official email address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
 
-In your report please include:
+## Enforcement
 
-- Your contact information.
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be
+reported to the community leaders responsible for enforcement at
+DSWB.
+All complaints will be reviewed and investigated promptly and fairly.
 
-- Names (real, nicknames, or pseudonyms) of any individuals involved. If there
-  are additional witnesses, please include them as well. Your account of what
-  occurred, and if you believe the incident is ongoing. If there is a publicly
-  available record (e.g. a mailing list archive or a public IRC logger), please
-  include a link.
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
 
-- Any additional information that may be helpful.
+## Enforcement Guidelines
 
-We will respect confidentiality requests all the time for the purpose of protecting individuals who have been harmed.
+Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:
 
-### Terminology
+### 1. Correction
 
-* Reporter: Person reporting an incident.
-* Reportee: Person being reported.
+**Community Impact**: Use of inappropriate language or other behaviour deemed
+unprofessional or unwelcome in the community.
 
-## Report Handling Process
-
-After receiving a report, the community leaders (or person handling the report), team lead or programme director in this case, will review the incident report and follow this process to determine the cause and consequences that violated this Code of Conduct and take further actions:
-
-Community leaders will reach out to the reporter to ask for further information if the submitted report is not complete or needs some additional context.
-Community leaders will also ensure that the person impacted or harmed by the reported incident is safe and identify how they can be further supported.
-
-A meeting with the reportee will be scheduled where the person handling the report will discuss four questions:
-- What happened?
-- What were you thinking at the time?
-- Who has been affected by what you have done? In what way?
-- What do you think you need to do to make things right?
-
-When the incident in question inflicted harm on another person, additional 
-questions will be asked on behalf of the person(s) harmed:
-- What did you think when you realized what had happened?
-- What impact has this incident had on you and others?
-- What do you think needs to happen to make things right?
-
-The person handling the report may follow up with reportee or reporter after this discussion 
-with any additional questions to help them reach a resolution. 
-
-### Resolutions
-
-Here are examples of possible resolutions to a report. 
-This list is not comprehensive, and any action necessary to reach a fair resolution will be taken as needed. 
-Possible resolutions to an incident include:
-
-- a private communication from community leaders, providing
+**Consequence**: A private, written warning from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
-behaviour was inappropriate.
-- an apology to the person harmed or the team as a whole
-- an action plan for the reportee to improve their awareness and correct future behaviours
-- if confirmed by the person reporting, reportee will have no interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period. This includes avoiding interactions in community spaces as well as external channels like social media.
-- not publishing the content that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
-- An imposed suspension, such as asking reportee to “take a week off” from the GitHub repo or team activity.
-- a stronger warning with consequences for continued behaviour. 
+behaviour was inappropriate. A public apology may be requested.
 
-The person handling the report will maintain records of all reports so that they may be reviewed if stronger measures are required when repeated violations occur by the same individual as well as to improve our Code of Conduct for future participation.
+### 2. Warning
 
-Once a resolution is agreed upon, but before it is enacted, the person handling the report will contact the reporter and any other affected parties to explain the proposed resolution. 
-They will ask if this resolution is acceptable and must note feedback for the record. However, they are not required to act on this feedback.
+**Community Impact**: A violation through a single incident or series of
+actions.
 
-The reportee will be contacted via email informing them of the resolution.
-A final meeting may be conducted if necessary.
+**Consequence**: A warning with consequences for continued behaviour. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or permanent
+ban.
 
-### Conflict of Interest
+### 3. Temporary Break
 
-All reports will be kept confidential with details shared only with people involved in report handling. 
-If a person handling the report (team lead or programme director) is linked with the ongoing issue, they will declare their Conflict of Interest and remove themselves from any discussion related to the report handling.
-Resolution action may also include identifying appropriate members from within the Open Research Community Building Team if more support for the person handling the report is needed.
+**Community Impact**: A serious violation of community standards, including
+sustained inappropriate behaviour.
+
+**Consequence**: A temporary break from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+
+### 4. Other Measures
+
+**Community Impact**: Demonstrating a pattern of disrespect for the community
+standards, including sustained inappropriate behaviour, harassment of an
+individual, or aggression toward or disparagement of classes of individuals.
+
+**Consequence**: Other more serious measures may be taken in consultation with the community leaders.
 
 ## Attribution
 
-This code of conduct is based on the Open Code of Conduct from the [TODO Group](https://github.com/todogroup/opencodeofconduct/), [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html) and [Contributor Covenant
-version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 2.1, available at
+[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
 
-The report handling process has been derived from the Eastern University 
-Academic Charter School (EUACS) Student Restorative Justice-based Code of Conduct derived from the work of Ted Wachtel
-at the International Institute for Restorative Practices (IIRP).
-Restorative Practice Principles are based on Amstutz and Mullet (2005). Restorative Discipline for Schools, pp. 25-26.
+Community Impact Guidelines were inspired by
+[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
 
-Community Impact Guidelines are inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+For answers to common questions about this code of conduct, see the FAQ at
+[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
+[https://www.contributor-covenant.org/translations][translations].
+
+[homepage]: https://www.contributor-covenant.org
+[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+[Mozilla CoC]: https://github.com/mozilla/diversity
+[FAQ]: https://www.contributor-covenant.org/faq
+[translations]: https://www.contributor-covenant.org/translations
