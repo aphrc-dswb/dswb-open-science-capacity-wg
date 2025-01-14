@@ -16,8 +16,9 @@ We would be working with three Pathfinder Institutions:
 
 The London School of Hygiene & Tropical Medicine (LSHTM) and the Committee on Data of the International Science Council (CODATA) collaborate as delivery partners providing support in platform development. The Africa CDC provides key technical oversight for the project, supporting country engagement, identification of priority use cases and provision of guidance for effective policy engagement. 
 
-This project will host the **Open Science and Capacity Building Working Group** from **2024 to 2025**. 
+DSWB currently has two working groups: *Open Science and Capacity Building Working Group* and *Data Harmonisation and Platform Working Group*.
 
+This repository will centralises resources used, developed and maintained by **Open Science and Capacity Building Working Group**.
 
 ## Our Goals 
 
