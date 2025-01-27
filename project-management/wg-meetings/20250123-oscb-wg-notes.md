@@ -6,7 +6,7 @@ Date: January 23rd, 2025
 
 *(Getting to know each other and this Etherpad for collaborative notes)*
 
-**Name / Organisation / What has been one of your highlights as part of DSWB this year?** 
+**Name / What has been one of your highlights as part of DSWB this year?** 
 
    * Malvika / Seeing people in Ethiopia and GitHub organisation starting!
    * Precious/Teaching about GitHub, and 1:1 meetings. 
