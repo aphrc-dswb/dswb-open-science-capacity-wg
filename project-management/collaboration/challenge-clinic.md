@@ -26,19 +26,3 @@ Please share any critical situation/problem from your project/team that is/was p
   * **Who in my project is involved in addressing it?** (Identify the individuals or roles within your project team who are currently involved in trying to solve this challenge.)
   * **How will solving this issue affect my work/team/community?** (Describe the potential positive impact of successfully resolving this challenge on your individual work, your team's effectiveness, or the broader community you are involved with.)
 
-
-
-## Format Detail
-
-
-
-## Describing your challenge
-
-Please share any critical situation or problem within your project or team that you have recently found particularly difficult to manage. This could relate to various aspects such as data sharing, collaboration, project management, or any issues concerning skills and capacity building. To help you structure your challenge description, please consider the following prompts and provide details accordingly:
-
-* **Name:** 
-* **What open science and capacity building-related challenge am I currently encountering in my project?** (Clearly describe the specific challenge you are facing.)
-* **What are the indicators that this issue is particularly challenging?** (Explain why this issue is significant and difficult to resolve. What are the signs or symptoms that highlight its complexity?)
-* **Who in my project is involved in addressing it?** (Identify the individuals or roles within your project team who are currently involved in trying to solve this challenge.)
-* **How will solving this issue affect my work/team/community?** (Describe the potential positive impact of successfully resolving this challenge on your individual work, your team's effectiveness, or the broader community you are involved with.)
-
