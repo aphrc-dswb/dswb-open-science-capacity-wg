@@ -13,8 +13,7 @@ We encourage members to bring forward a wide range of challenges relevant to the
 At the start of the meeting, all attendees will have the opportunity to indicate their interest in discussing particular challenges by adding "+1" next to up to three issues they wish to prioritise.
 It is also possible for an individual to allocate all three of their "+1" votes to a single challenge if it is of significant interest to them.
 
-If there are more challenges than we can get through in a single meeting, we may use the next coworking call or meeting to discuss some challenges that we can't get through at this week's meeting.
-What kinds of challenges to bring?
+If there are more challenges than we can get through in a single meeting, we may use the next coworking call or meeting to discuss those.
 
 ## Describing your challenge
 
