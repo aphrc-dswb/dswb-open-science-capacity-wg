@@ -123,15 +123,14 @@ For example:
 ### Benfits of using Zenodo
 
 Researchers benefit significantly from using Zenodo and its community features for several reasons. 
-Here are a few suggestions from the Gemini GenAI tool:
 
-* **Increased Visibility and Impact:** Sharing your research outputs on an open platform like Zenodo significantly increases their visibility to a wider audience, potentially leading to more citations, collaborations, and overall impact.
-* **Enhanced Discoverability:** The assignment of DOIs makes your work easily citable and discoverable through search engines and scholarly databases. Being part of a Zenodo Community further enhances discoverability within a specific research area.
-* **Credit and Recognition for Diverse Outputs:** Zenodo allows you to get credit not just for publications but also for valuable supporting materials like datasets, software, and presentations, which are often crucial for the reproducibility and understanding of your research. As highlighted in The Turing Way, recognising these diverse contributions is essential.
-* **Long-Term Preservation and Accessibility:** Zenodo ensures the long-term preservation of your research, making it accessible to future researchers and preventing data loss.
-* **Compliance with Open Access Mandates:** Many funding agencies and institutions now mandate or encourage open access to research outputs. Zenodo provides a straightforward way to comply with these requirements.
-* **Facilitating Collaboration and Reproducibility:** Sharing data, code, and protocols on Zenodo promotes transparency and facilitates collaboration and the reproducibility of your research findings.
-* **Building a Research Portfolio:** Zenodo acts as a valuable platform to build a comprehensive portfolio of your research contributions, showcasing the breadth and depth of your work.
-* **Community Building:** Zenodo Communities foster a sense of belonging and facilitate the exchange of knowledge and resources within specific research areas. By contributing to the "dswb-open-science" community, you directly contribute to building a valuable resource hub for the DSWB community.
+* Sharing your research outputs on an open platform like Zenodo significantly increases their visibility to a wider audience, potentially leading to more citations, collaborations, and overall impact.
+* The assignment of DOIs makes your work easily citable and discoverable through search engines and scholarly databases. Being part of a Zenodo Community further enhances discoverability within a specific research area.
+* Zenodo allows you to get credit not just for publications but also for valuable supporting materials like datasets, software, and presentations, which are often crucial for the reproducibility and understanding of your research. As highlighted in The Turing Way, recognising these diverse contributions is essential.
+* Zenodo ensures the long-term preservation of your research, making it accessible to future researchers and preventing data loss.
+* Many funding agencies and institutions now mandate or encourage open access to research outputs. Zenodo provides a straightforward way to comply with these requirements.
+* Sharing data, code, and protocols on Zenodo promotes transparency and facilitates collaboration and the reproducibility of your research findings.
+* Zenodo acts as a valuable platform to build a comprehensive portfolio of your research contributions, showcasing the breadth and depth of your work.
+* enodo Communities foster a sense of belonging and facilitate the exchange of knowledge and resources within specific research areas. By contributing to the "dswb-open-science" community, you directly contribute to building a valuable resource hub for the DSWB community.
 
 In essence, Zenodo and its community feature provide a powerful and user-friendly infrastructure for researchers to embrace open science principles, enhance the impact of their work, and contribute to the collective advancement of knowledge within their respective fields.
