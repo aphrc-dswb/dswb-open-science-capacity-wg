@@ -11,8 +11,8 @@ Learn more about license in [The Turing Way Licensing chapter](https://book.the-
 Key features of Zenodo include:
 
 * There are no charges for the uploader, but please use responsibly and avoid uploading large datasets (although you can upload them too).
-* Zenodo provides long-term preservation of deposited resources. Each submission receives a Digital Object Identifier (DOI), making it citable and easily discoverable.
-* Zenodo integrates with platforms like GitHub and ORCID, streamlining the research sharing workflow (GitHub integration is described here in [The Turing Way](https://book.the-turing-way.org/communication/citable/citable-cff)).
+* Zenodo provides long-term preservation of deposited resources. Each submission receives a Digital Object Identifier (DOI), making it citable and easily discoverable. Learn more about DOIs [here](https://book.the-turing-way.org/communication/citable/citable-steps#cm-citable-steps-doi).
+* Zenodo integrates with platforms like GitHub and [ORCID](https://book.the-turing-way.org/communication/citable/citable-orcid#cm-citable-orcid-why), streamlining the research sharing workflow (GitHub integration is described here in [The Turing Way](https://book.the-turing-way.org/communication/citable/citable-cff)).
 * Unlike traditional repositories focused solely on publications or datasets, Zenodo accommodates a wide range of research outputs, including presentations, images or other citable materials.
 
 ## Zenodo Community for DSWB
@@ -33,11 +33,11 @@ Sharing your work openly on Zenodo ensures you receive credit for the diverse ou
 
 If you are new to Zenodo, you can get started quickly with their extensive guidance on [help page](https://help.zenodo.org/docs/).
 
-Specifically, follow the instructions for creating an account: [https://help.zenodo.org/docs/get-started/create-an-account/](https://help.zenodo.org/docs/get-started/create-an-account/)
+* Specifically, follow the instructions for creating an account: [https://help.zenodo.org/docs/get-started/create-an-account/](https://help.zenodo.org/docs/get-started/create-an-account/)
 
-After you have created an account, you can follow this step-by-step guide below, or follow instructions on Zenodo: [https://help.zenodo.org/docs/deposit/create-new-upload/](https://help.zenodo.org/docs/get-started/quickstart/)
+* After you have created an account, you can follow this step-by-step guide below, or follow instructions on Zenodo to upload your work: [https://help.zenodo.org/docs/deposit/create-new-upload/](https://help.zenodo.org/docs/get-started/quickstart/)
 
-Once your document is uploaded, follow these steps to submit it to the "dswb-open-science" community: [https://help.zenodo.org/docs/share/submit-to-community/](https://help.zenodo.org/docs/share/submit-to-community/).
+* Once your document is uploaded, follow these steps to submit it to the "dswb-open-science" community: [https://help.zenodo.org/docs/share/submit-to-community/](https://help.zenodo.org/docs/share/submit-to-community/).
 
 ### Step-by-step instructions for uploading to Zenodo and including in the "dswb-open-science" community
 
@@ -89,9 +89,11 @@ Below the description box, you can select a license. By default, the CC-BY 4.0 (
 
 <img width="881" alt="screenshot of Zenodo license section" src="https://github.com/user-attachments/assets/5ba23bf9-fa27-42ce-9733-16590599d754" />
 
+If you are unsure what license to use, please read the [The Turing Way Licensing chapter](https://book.the-turing-way.org/reproducible-research/licensing) for guidance.
+
 **Step 5: Save and  publish**
 
-On the right panel, you will find buttons to "save draft", "preview" and "publish".
+On the right panel, you will find buttons to "save draft", "preview", and "publish".
 Select publish when you are sure of the file and information you would like to share.
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/f8b8b1c1-0c27-41ea-98fc-fb9e1ec552b3" />
@@ -121,9 +123,9 @@ For example:
 
 <img width="367" alt="image" src="https://github.com/user-attachments/assets/a452c107-8fd3-45f3-afeb-cef76203aebe" />
 
-### Benfits of using Zenodo
+### Benefits of using Zenodo
 
-Researchers benefit significantly from using Zenodo and its community features for several reasons. 
+Researchers benefit significantly from using Zenodo and its community features for several reasons: 
 
 * Sharing your research outputs on platforms like Zenodo can increase their visibility to a wider audience, potentially leading to more citations, collaborations, and impact.
 * The assignment of DOIs makes your work easy to cite and discoverable for others, such as through the Zenodo community page.
