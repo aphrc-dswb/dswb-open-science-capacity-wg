@@ -1,8 +1,10 @@
 # Challenge Clinic Template
 
-This template outlines the "Challenge Clinic" format for Working Group meetings.
+This template outlines the "Challenge Clinic" format, which will be hosted every few weeks as part of the Open Science and Capacity Building Working Group meetings in Data Science Without Borders.
 
-A challenge clinic format has been designed to help individuals and their teams address specific problems or difficulties they are currently facing in their work or projects.
+These Working Group Meetings take place fortnightly on Wednesdays from 13:00 - 14:00 UTC, online, hosted by OSPO Now members.
+
+A challenge clinic format has been designed to help individuals and their teams address specific challenge or difficulties they are currently facing in their work or projects.
 It provides a dedicated time and format for colleagues/DSWB peers to offer insights, feedback, and potential solutions to the person or team presenting the challenge.
 
 ## Format Detail
