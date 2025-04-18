@@ -10,16 +10,16 @@ These Journal Club sessions will provide a structured platform for us to delve i
 
 Our monthly meetings will convene on the first Wednesday of each month.
 
-| Date           | Format       | Topic/Journal to be Reviewed | Team                       |
+| Date           | Speaker      | Topic/Journal to be Reviewed | Team                       |
 | -------------- | ------------ | --------------------------- | -------------------------- |
-| 7 May 2025     | Journal Club | TBD                         | To be confirmed    |
-| 4 June 2025    | Journal Club | TBD                         | IRESSEF - Confirmed        |
-| 2 July 2025    | Journal Club | TBD                         | DGH - Confirmed            |
-| 6 August 2025  | Journal Club | TBD                         | APHRC - Confirmed          |
-| 3 September 2025 | Journal Club | TBD                         | Request AHRI Team to lead   |
-| 1 October 2025 | Journal Club | TBD                         | Request IRESSEF Team to lead |
-| 5 November 2025  | Journal Club | TBD                         | DGH - Confirmed            |
-| 3 December 2025  | Journal Club | TBD                         | Request APHRC Team to lead |
+| 7 May 2025     | TBD | TBD                         | To be confirmed    |
+| 4 June 2025    | TBD | TBD                         | IRESSEF - Confirmed        |
+| 2 July 2025    | TBD | TBD                         | DGH - Confirmed            |
+| 6 August 2025  | TBD | TBD                         | APHRC - Confirmed          |
+| 3 September 2025 | TBD | TBD                         | Request AHRI Team to lead   |
+| 1 October 2025 | TBD | TBD                         | Request IRESSEF Team to lead |
+| 5 November 2025  | TBD | TBD                         | DGH - Confirmed            |
+| 3 December 2025  | TBD | TBD                         | Request APHRC Team to lead |
 
 ## Format
 
