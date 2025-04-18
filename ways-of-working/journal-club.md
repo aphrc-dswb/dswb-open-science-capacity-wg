@@ -12,7 +12,7 @@ Our monthly meetings will convene on the first Wednesday of each month.
 
 | Date           | Format       | Topic/Journal to be Reviewed | Team                       |
 | -------------- | ------------ | --------------------------- | -------------------------- |
-| 7 May 2025     | Journal Club | TBD                         | Request Dr Abel to lead    |
+| 7 May 2025     | Journal Club | TBD                         | To be confirmed    |
 | 4 June 2025    | Journal Club | TBD                         | IRESSEF - Confirmed        |
 | 2 July 2025    | Journal Club | TBD                         | DGH - Confirmed            |
 | 6 August 2025  | Journal Club | TBD                         | APHRC - Confirmed          |
