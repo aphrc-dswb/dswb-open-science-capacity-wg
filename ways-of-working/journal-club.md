@@ -1,6 +1,6 @@
 # Monthly Journal Club for the Data Science Without Borders (DSWB) Community
 
-The monthly Journal Club is being launched to cultivate a culture of knowledge sharing, continuous learning, critical evaluation, and collaborative ideation within the Data Science Without Borders community.
+The monthly Journal Club is being launched to facilitate a space for knowledge sharing, continuous learning, critical evaluation, and collaborative ideation within the Data Science Without Borders community.
 
 Our community is comprised of talented researchers and their teams who are engaged in significant and fascinating research. Regularly, Pathfinder Teams and technical partners encounter and share diverse research articles relevant to their day-to-day work within the broader DSWB community.
 
