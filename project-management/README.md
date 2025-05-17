@@ -2,4 +2,5 @@
 
 Here, you can find the following resources organised in different directories.
 
-- [Working Group Meeting Notes](./wg-meetings)
+- Notes from the [Working Group Meetings](./wg-meetings)
+- Notes from the [Weekly Coworking Calls](./coworking-calls)
