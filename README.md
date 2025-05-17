@@ -2,7 +2,7 @@
 
 *The Data Science Without Borders project hosts an Open Science and Capacity Building Working Group for researchers in African countries.*  
 
-Say hi [on Discord](https://discord.com/invite/9Mx2fMjS4g) || Join our next [meeting](https://arewemeetingyet.com/Lagos/2024-10-17/14:00/b/Open%20Science%20Capacity%20Work%20Group%20Meeting#eyJ1cmwiOiJodHRwczovL3VzMDJ3ZWIuem9vbS51cy9qLzg2MDEzMjY3NzY1P3B3ZD1OWGcyVG5reU1pdGthMjl5YUU0Mk5HeFRLM3BNZHowOSAifQ==)
+Say hi [on Discord](https://discord.com/invite/9Mx2fMjS4g)!
 
 ## Background
 
