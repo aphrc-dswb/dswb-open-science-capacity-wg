@@ -13,14 +13,14 @@ The meeting is currently chaired by Malvika Sharan (@msharan) and coordinated by
 ## Duration and Meeting Frequency
 
 The Working Group meetings take place online (via Zoom) every two weeks for one hour.
-Currently, these meetings are hosted on **Thursdays, at 16:00 EAT**, alternating with the Data Harmonization and Platform Working Group meetings.
+Currently, these meetings are hosted on **Thursdays, at 16:00 EAT**, alternating with the Data Harmonisation and Platform Working Group meetings.
 
 ## Format
 
 Typically, each Working Group meeting has a pre-defined theme and/or agenda that includes aspects like presentations about specific concepts, breakout discussions, and technical talks from partners.
-Recently, two new formats, challenge clinic and public-facing webinars, have also been included to make these meetings an active space for discussion and learning.
+Recently, two new formats, challenge clinics and public-facing webinars, have also been included to make these meetings an active space for discussion and learning.
 
-Since 2025, a **live translator** provides live-interpretation service in French (using Zoom feature) for our French-speaking members. 
+Since 2025, a **live translator** has been providing live-interpretation service in French (using Zoom feature) for our French-speaking members. 
 
 Notes from all meetings are captured in a **Framapad** (https://annuel2.framapad.org/p/dswb-open-science-capacity-wg).
 Live and shared notetaking allows everyone to follow and contribute to the meeting.
@@ -36,7 +36,7 @@ You can also ask Precious Onyewuchi (@preshh0), Malvika Sharan (@msharan) or Mir
 
 ## Archiving notes
 
-All meeting notes after the meeting are archived in this repository in the [wg-meetings](./wg-meetings) folder.
+All meeting notes after the meeting are archived in this repository in the [wg-meetings](../project-management/wg-meetings) folder.
 This repository is regularly updated.
 As we progress, this repository will contain the following: 
 
