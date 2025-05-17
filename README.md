@@ -2,11 +2,11 @@
 
 *The Data Science Without Borders project hosts an Open Science and Capacity Building Working Group for researchers in African countries.*  
 
-Say hi [on Discord](https://discord.com/invite/9Mx2fMjS4g)!
+Say hi [on Discord](https://discord.com/invite/9Mx2fMjS4g). Subscribe to our [community calendar](https://bit.ly/dswb-community-calendar).
 
 ## Background
 
-Data Science Without Borders (DSWB) is an international initiative, funded by the Wellcome Trust and led by the African Population and Health Research Center (APHRC). This project has three overarching objectives: to strengthen data systems in Pathfinder countries, to create a sustainable environment for collaborative AI/ML platforms, and to create a user-friendly platform for AI and Machine Learning (AI/ML) tools. The impact of inequality in data availability and access is evident, particularly in resource-limited settings like many African nations. This African institution-led initiative will leverage artificial intelligence and machine learning (AI/ML) to bridge existing gaps in data accessibility, infrastructure, and expertise. It aims to foster a collaborative environment that empowers African nations to harness the full potential of AI/ML for improving health outcomes. 
+Data Science Without Borders (DSWB) is an international initiative, funded by the Wellcome Trust and led by the African Population and Health Research Centre (APHRC). This project has three overarching objectives: to strengthen data systems in Pathfinder countries, to create a sustainable environment for collaborative AI/ML platforms, and to create a user-friendly platform for AI and Machine Learning (AI/ML) tools. The impact of inequality in data availability and access is evident, particularly in resource-limited settings like many African nations. This African institution-led initiative will leverage artificial intelligence and machine learning (AI/ML) to bridge existing gaps in data accessibility, infrastructure, and expertise. It aims to foster a collaborative environment that empowers African nations to harness the full potential of AI/ML for improving health outcomes. 
 
 We would be working with three Pathfinder Institutions:
 
@@ -14,11 +14,11 @@ We would be working with three Pathfinder Institutions:
  - the Institute for Health Research, Epidemiological Surveillance (IRESSEF) in Senegal 🇸🇳
  - and the Training and Douala General Hospital (DGH) in Cameroon 🇨🇲
 
-The London School of Hygiene & Tropical Medicine (LSHTM) and the Committee on Data of the International Science Council (CODATA) collaborate as delivery partners providing support in platform development. The Africa CDC provides key technical oversight for the project, supporting country engagement, identification of priority use cases and provision of guidance for effective policy engagement. 
+The London School of Hygiene & Tropical Medicine (LSHTM) and the Committee on Data of the International Science Council (CODATA) collaborate as delivery partners, providing support in platform development. The Africa CDC provides key technical oversight for the project, supporting country engagement, identification of priority use cases and provision of guidance for effective policy engagement. 
 
 DSWB currently has two working groups: *Open Science and Capacity Building Working Group* and *Data Harmonisation and Platform Working Group*.
 
-This repository will centralises resources used, developed and maintained by **Open Science and Capacity Building Working Group**.
+This repository will centralise resources used, developed and maintained by the **Open Science and Capacity Building Working Group**.
 
 ## Our Goals 
 
@@ -58,7 +58,7 @@ The chair of this working group is Malvika Sharan, working as a consultant on th
 ## Contributing
 
 - **Guidelines:** Contribution Guidelines for contributors will be developed in due course
-- **Code of Conduct:** Code of Conduct will be adopted in agreement with the DSWB members
+- **Code of Conduct:** The Code of Conduct will be adopted in agreement with the DSWB members
 
 ### Maintainers
 
@@ -71,7 +71,7 @@ This repository has been set up and maintained by Malvika Sharan (@malvikasharan
 ---
 
 This work is licensed under the MIT license (code) and Creative Commons Attribution 4.0 International license (for documentation).
-You are free to share and adapt the material for any purpose, even commercially,
+You are free to share and adapt the material for any purpose, even commercially.
 as long as you provide attribution (give appropriate credit, provide a link to the license,
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
 licensor endorses you or your use and with no additional restrictions.
