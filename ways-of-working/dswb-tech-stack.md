@@ -1,3 +1,6 @@
+# DSWB Tools and Tech Stack
+
+In DSWB, we used the following tech stack to meet the needs of our community and facilitate collaboration. 
 
 ## Communication Channels
 
@@ -20,7 +23,9 @@
 ## Resource Sharing
 
 - [Google Drive](https://drive.google.com/drive/folders/1Jpkl7EdgH5brpXIgmg6Fdtn7Jlf-OTx0?usp=sharing) - shared with DSWB members.
-  - All DSWB delegates should have access to read and create resources such as in Google Doc, Sheets and Slides. 
+  - All DSWB delegates should have access to read and create resources such as in Google Docs, Sheets and Slides.
+  - Information that can be reused, such as reports, templates, documentation, resources etc., that doesn't hold sensitive information can be published on Zenodo. Any record-keeping that should be available for the community should be centralised on GitHub for reference by the community.
 - [GitHub Organisation](https://github.com/aphrc-dswb) - Please request the DSWB coordinator from your team to add you.
 - [Zenodo `dswb-open-science`](https://zenodo.org/communities/dswb-open-science/) - [follow instructions](./sharing-resources-on-zenodo.md) to submit your resource.
+  - Any materials developed on GitHub and Google Drive for reuse by others should be published here 
 
