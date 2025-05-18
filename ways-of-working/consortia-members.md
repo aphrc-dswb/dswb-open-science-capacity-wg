@@ -1,6 +1,11 @@
 # DSWB Organogram and Team Structure
 
-The DSWB project has been funded by the Wellcome Trust. Learn more about the project on our website: https://dswb.africa/.
+## Reference Resources
+
+- Website: https://dswb.africa/
+- Kumu interactive map of members: https://kumu.io/malvikasharan/dswb#dswb-consortia-delegates (this is under development).
+
+## Organogram
 
 ![DSWB team structure](../assets/images/organogram.png)
 
