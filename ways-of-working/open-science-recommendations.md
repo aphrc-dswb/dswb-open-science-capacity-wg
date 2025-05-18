@@ -10,6 +10,8 @@ These recommendations apply to all research activities and outputs within the DS
 * Publications and presentations
 * Capacity building and training activities
 
+For introduction and relevant details about open science in DSWB, please refer to this document: https://doi.org/10.5281/zenodo.14775481 (cite as: Sharan, M. (2025, January 30). Concept Familiarization: Part 1 - Open science definition, scope, and relevance in data science; Part 2 - License; Part 3 - Documentation. Zenodo. DOI 10.5281/zenodo.14485475.)
+
 ## Important Considerations
 
 * **Open Access Publication, Open Data and Open Source Software:** All research outputs, including publications, data, and code, should be freely available and accessible to everyone.
