@@ -9,8 +9,9 @@ on:
 env:
   # `BASE_URL` determines the website is served from, including CSS & JS assets
   # You may need to change this to `BASE_URL: ''`
+  GITHUB-ORG: "aphrc-dswb"
   BOOK_PATH: "ways-of-working"
-  BASE_URL: /${{ github.event.repository.name }}/$BOOK_PATH
+  BASE_URL: $GITHUB-ORG/${{ github.event.repository.name }}/$BOOK_PATH
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
