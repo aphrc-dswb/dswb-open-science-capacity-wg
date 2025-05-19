@@ -2,7 +2,9 @@
 (communication-channels)=
 # Communication Channels
 
-**Note:** Resources in this document are based on *The Turing Way* chapter on [communication channels](https://book.the-turing-way.org/community-handbook/communication-channels).
+```{note}
+Resources in this document are based on *The Turing Way* chapter on [communication channels](https://book.the-turing-way.org/community-handbook/communication-channels).
+```
 
 In DSWB, we utilise various communication platforms to facilitate effective knowledge sharing and information dissemination within and beyond the DSWB community, which are briefly discussed below.
 
@@ -16,7 +18,7 @@ To update and share information via these channels, please contact the APHRC tea
 
 For the Data Science Without Borders community, we have established a dedicated community page on Zenodo to facilitate the sharing of resources: [dswb-open-science](https://zenodo.org/communities/dswb-open-science).
 
-You can learn more about Zenodo and how to use it in DSWB, please read {ref}`zenodo`
+You can learn more about Zenodo and how to use it in DSWB, please read {ref}`zenodo`.
 
 This DSWB community page on Zenodo is the main platform to archive and preserve project-related outputs, including slide decks, reports, datasets (such as entire GitHub repositories and illustrations), and publications. This platform provides persistent identifiers (DOIs) to maintain stable and citable records, enhancing accessibility and longevity.
 

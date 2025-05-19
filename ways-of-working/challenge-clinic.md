@@ -28,3 +28,17 @@ Please share any critical situation/problem from your project/team that is/was p
   * **Who in my project is involved in addressing it?** (Identify the individuals or roles within your project team who are currently involved in trying to solve this challenge.)
   * **How will solving this issue affect my work/team/community?** (Describe the potential positive impact of successfully resolving this challenge on your individual work, your team's effectiveness, or the broader community you are involved with.)
 
+```{note}
+**Please Use this Example Template in Meeting Notes**
+
+* Name: Miranda
+* Challenge: We have seen low level of engagement in my working group meeting.
+* Indicators of challenge: Low attendance led to cancellation of last meetings and contributions from regular members are discouraged.
+* Collaborators: Members from all Pathfinder Institutions and Technical Partner Institution.
+* Intended impact: Stronger collaboration and progress towards shared goals.
+* Notes from discussion:
+  * Item 1 ...
+  * Item 2 ...
+  * Item 3 ...
+
+```

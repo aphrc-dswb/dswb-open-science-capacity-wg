@@ -9,7 +9,7 @@ Through presentation, discussion and facilitated collaboration, we support membe
 **Who organises the OS-CB WG Meeting?**
 
 These meetings are organised by the members of OSPO Now, a DSWB's technical partner.
-The meeting is currently chaired by Malvika Sharan (@msharan) and coordinated by Precious Onyewuchi (@preshh0).
+The meeting is currently chaired by Malvika Sharan and coordinated by Precious Onyewuchi.
 
 ## Duration and Meeting Frequency
 
@@ -33,11 +33,11 @@ Members from across all DSWB partner institutions can join all of the Working Gr
 Periodically, we also organise meetings in webinar format, which are open to all interested members in and beyond DSWB.
 
 You can subscribe to the DSWB community calendar to get information about future meetings.
-You can also ask Precious Onyewuchi (@preshh0), Malvika Sharan (@msharan) or Miranda Barasa to add you to the calendar. 
+You can also ask Precious Onyewuchi, Malvika Sharan or Miranda Barasa to add you to the calendar. 
 
 ## Archiving notes
 
-All meeting notes after the meeting are archived in this repository in the [wg-meetings](../project-management/wg-meetings) folder.
+All meeting notes after the meeting are archived in this repository in the [wg-meetings](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/tree/main/project-management/wg-meetings) folder.
 This repository is regularly updated.
 As we progress, this repository will contain the following: 
 

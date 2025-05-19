@@ -23,13 +23,21 @@ In DSWB, we use the following tech stack to meet the needs of our community and 
 
 ## Resource Co-Development and Sharing
 
-- **Collaborate with others and co-develop resources in DSWB**: Please use [**GitHub Organisation**](https://github.com/aphrc-dswb) to create project repositories and project boards. Learn more about {ref}`how to use GitHub<github`>
+- **Collaborate with others and co-develop resources in DSWB**: Please use [**GitHub Organisation**](https://github.com/aphrc-dswb) to create project repositories and project boards. Learn more about {ref}`github`.
 
 ## Resource Sharing
 
 - **Informtion and resources for public access and reuse**: Share these on [**Zenodo `dswb-open-science` page**](https://zenodo.org/communities/dswb-open-science/) - [follow instructions](./sharing-resources-on-zenodo.md) to submit your resource. Learn more about {ref}`how to use Zenodo<zenodo>`
 - **Information and resources that are limited for access by DSWB members**: These can be shared and stored in [**Google Drive**](https://drive.google.com/drive/folders/1Jpkl7EdgH5brpXIgmg6Fdtn7Jlf-OTx0?usp=sharing).
-- **Sensitive data**: Please consult your institutions policy and seek guidance from your institution representative for guidance on where sensitive information can be locally stored and who has the authority to access them. DO NOT SHARE THEM VIA ANY OF THE LISTED PLATFORMS.
+
+```{warning}
+
+**When Using Sensitive Data**
+
+Please consult your institutions policy and seek guidance from your institution representative for guidance on where sensitive information can be locally stored and who has the authority to access them. 
+
+PLEASE DO NOT SHARE sensitive data via any of the platforms listed in this handbook without approval from your supervisor.
+```
 
 ## General Recommendations
 
@@ -40,5 +48,3 @@ In DSWB, we use the following tech stack to meet the needs of our community and 
 - Move any reusable materials currently in Google Drive (excluding sensitive data and information) to GitHub and subsequently publish them on Zenodo.
 - Project management resources maintained by APHRC are frequently shared via the DSWB Google Drive. All DSWB delegates should have read and write access to resources within Google Docs, Sheets, and Slides. Community-related information unsuitable for public sharing can be stored in Google Drive by other teams, with access restricted to DSWB members.
 - Publish reusable information, including reports, templates, documentation, and other resources that do not contain sensitive information, on Zenodo.
-
-

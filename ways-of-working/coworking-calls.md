@@ -1,7 +1,9 @@
 (coworking-calls)=
 # Coworking Calls
 
-***Collaborative Work Sessions for Our Community***
+```{note}
+Coworking calls in DSWB is modeled after the Coworking Calls in *The Turing Way*. You can learn more about different formats in [this chapter](https://book.the-turing-way.org/community-handbook/community-calls).
+```
 
 Coworking spaces traditionally refer to sharing a physical office space.
 It also applies to online coworking calls, providing a great format for the DSWB community members to work together in an online setting.

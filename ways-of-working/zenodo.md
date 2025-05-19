@@ -5,13 +5,17 @@ Zenodo is an open-access repository created and hosted by CERN.
 Zenodo provides an openly available and accessible platform for researchers worldwide to share and preserve their research outputs, including data, software, presentations, reports, images, and more.
 It helps enforce open science practices, aiming to make research results publicly available and reusable.
 By default, uploads are licensed under Creative Commons licenses, promoting reuse.
-Learn more about license in [The Turing Way Licensing chapter](https://book.the-turing-way.org/reproducible-research/licensing).
+Researchers can also choose other licenses suitable for the specific type of their research outputs.
+
+```{note}
+Learn more about creating [citable objects](https://book.the-turing-way.org/communication/citable) and license in [_The Turing Way_ Licensing chapter](https://book.the-turing-way.org/reproducible-research/licensing).
+```
 
 Key features of Zenodo include:
 
 * There are no charges for the uploader, but please use responsibly and avoid uploading large datasets (although you can upload them too).
 * Zenodo provides long-term preservation of deposited resources. Each submission receives a Digital Object Identifier (DOI), making it citable and easily discoverable. Learn more about DOIs [here](https://book.the-turing-way.org/communication/citable/citable-steps#cm-citable-steps-doi).
-* Zenodo integrates with platforms like GitHub and [ORCID](https://book.the-turing-way.org/communication/citable/citable-orcid#cm-citable-orcid-why), streamlining the research sharing workflow (GitHub integration is described here in [The Turing Way](https://book.the-turing-way.org/communication/citable/citable-cff)).
+* Zenodo integrates with platforms like GitHub and [ORCID](https://book.the-turing-way.org/communication/citable/citable-orcid#cm-citable-orcid-why), streamlining the research sharing workflow (GitHub integration is described here in [_The Turing Way_](https://book.the-turing-way.org/communication/citable/citable-cff)).
 * Unlike traditional repositories focused solely on publications or datasets, Zenodo accommodates a wide range of research outputs, including presentations, images or other citable materials.
 
 ### Benefits of using Zenodo
