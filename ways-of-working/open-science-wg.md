@@ -1,4 +1,5 @@
-# DSWB Open Science Capacity Building Working Group Meeting 
+(open-science-wg)=
+# Open Science and Capacity Building Working Group
 
 Working Groups in Data Science Without Borders (DSWB) provide spaces for discussions, collaboration and technical skill building for the DSWB community.
 

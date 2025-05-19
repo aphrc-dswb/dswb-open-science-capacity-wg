@@ -1,4 +1,5 @@
-# DSWB Tools and Tech Stack
+(dswb-tech-stack)=
+# Tools and Tech Stack
 
 In DSWB, we used the following tech stack to meet the needs of our community and facilitate collaboration. 
 

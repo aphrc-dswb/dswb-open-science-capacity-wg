@@ -1,9 +1,9 @@
-# DSWB Organogram and Team Structure
+(consortia-members)=
+# DSWB Consortia Members
 
-## Reference Resources
+Here is an overview of the DSWB project team, and the information flow throughout the different parts of the community.
 
-- Website: https://dswb.africa/
-- Kumu interactive map of members: https://kumu.io/malvikasharan/dswb#dswb-consortia-delegates (this is under development).
+You can explore the community network through this Kumu interactive map: https://kumu.io/malvikasharan/dswb#dswb-consortia-delegates (this is under development).
 
 ## Organogram
 
@@ -13,9 +13,12 @@
 
 ## Leadership
 
-The project lead and principal investigator of DSWB is Dr. Agnes Kirraga from APHRC Kenya. You can learn about her and the APHRC team on our website: https://dswb.africa/dswb-secretariat/.
+The project lead and principal investigator of DSWB is Dr. Agnes Kirraga from APHRC Kenya.
 
-She reports to Steering Committee members, who are listed on our website: https://dswb.africa/steering-committee/.
+She is supported by the APHRC team members who serve as the project secretariat team.
+You can find more about them on our website: https://dswb.africa/dswb-secretariat/.
+
+The project team reports to the Steering Committee members, who are listed on our website: https://dswb.africa/steering-committee/.
 
 ## Pathfinder Institutions
 

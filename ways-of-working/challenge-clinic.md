@@ -1,4 +1,5 @@
-# Challenge Clinic Template
+(challenge-clinic)=
+# Challenge Clinic
 
 This template outlines the "Challenge Clinic" format, which will be hosted every few weeks as part of the Open Science and Capacity Building Working Group meetings in Data Science Without Borders.
 

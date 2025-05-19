@@ -1,4 +1,5 @@
-# Monthly Journal Club for the Data Science Without Borders (DSWB) Community
+(journal-club)=
+# Monthly Journal Club
 
 The monthly Journal Club is being launched to facilitate a space for knowledge sharing, continuous learning, critical evaluation, and collaborative ideation within the Data Science Without Borders community.
 
@@ -10,16 +11,15 @@ These Journal Club sessions will provide a structured platform for us to delve i
 
 Our monthly meetings will convene on the first Wednesday of each month.
 
-| Date           | Speaker      | Topic/Journal to be Reviewed | Team                       |
-| -------------- | ------------ | --------------------------- | -------------------------- |
-| 7 May 2025     | TBD | TBD                         | To be confirmed    |
-| 4 June 2025    | TBD | TBD                         | IRESSEF - Confirmed        |
-| 2 July 2025    | TBD | TBD                         | DGH - Confirmed            |
-| 6 August 2025  | TBD | TBD                         | APHRC - Confirmed          |
-| 3 September 2025 | TBD | TBD                         | Request AHRI Team to lead   |
-| 1 October 2025 | TBD | TBD                         | Request IRESSEF Team to lead |
-| 5 November 2025  | TBD | TBD                         | DGH - Confirmed            |
-| 3 December 2025  | TBD | TBD                         | Request APHRC Team to lead |
+| Date           | Team                       |
+| -------------- | -------------------------- |
+| 4 June 2025    | IRESSEF - Confirmed        |
+| 2 July 2025    | DGH - Confirmed            |
+| 6 August 2025  | APHRC - Confirmed          |
+| 3 September 2025 | Request AHRI Team to lead   |
+| 1 October 2025 | Request IRESSEF Team to lead |
+| 5 November 2025  | DGH - Confirmed            |
+| 3 December 2025  | Request APHRC Team to lead |
 
 ## Format
 

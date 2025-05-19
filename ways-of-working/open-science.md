@@ -1,4 +1,7 @@
-# Recommendation for Adopting Open Science Practices in DSWB
+(open-science)=
+# Recommendation for Adopting Open Science
+
+**This document is under development. References will be added soon.**
 
 Data Science Without Borders (DSWB) is committed to applying principles of open science for facilitating collaboration, transparency, reproducibility, and accessibility in health research across Africa. This document outlines how DSWB will implement these principles, maximising the impact of data science in health research and ensuring that knowledge through DSWB is shared equitably and openly, including the requirements of our funder, Wellcome Trust.
 

@@ -1,4 +1,5 @@
-# Different Community Meetings in DSWB
+(dswb-meetings)=
+# Community Meetings
 
 Please subscribe to our community calendar to get these meetings added to your own calendar: https://bit.ly/dswb-community-calendar
 
