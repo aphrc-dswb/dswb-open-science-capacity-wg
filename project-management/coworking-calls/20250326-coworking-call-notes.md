@@ -15,6 +15,7 @@
    * Winston
    * Serena
    * Luc
+   * Yordanos
 
 ## What are people working on today?
 
