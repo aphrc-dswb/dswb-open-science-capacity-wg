@@ -134,3 +134,12 @@ dmypy.json
 
 # MyST build outputs
 _build
+
+# VSCode config
+.vscode
+
+# PyCharm config
+.idea
+
+# OSX
+.DS_Store
