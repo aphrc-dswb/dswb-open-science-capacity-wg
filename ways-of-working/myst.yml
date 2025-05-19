@@ -35,5 +35,5 @@ project:
 site:
   template: book-theme
   options:
-    logo: dswb_logo.png
+    logo: dswb-logo.png
     favicon: favicon.ico 
