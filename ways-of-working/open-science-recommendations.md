@@ -84,3 +84,7 @@ For introduction and relevant details about open science practices, please refer
 * DSWB members, supported by technical partners like OSPO Now, will actively promote the principles of open science and advocate for their adoption within the broader global health and development community.
 * DSWB members will disseminate their projects and open science guidelines applied in their work through their website, publications, and other communication channels.
 * DSWB will engage with policymakers, funders, and local stakeholders to promote open science and data sharing.
+
+## Important References
+
+<add links and resources>
