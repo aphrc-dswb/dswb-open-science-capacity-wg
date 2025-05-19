@@ -8,22 +8,19 @@ You can learn more about the project and its resources on our website: [https://
 ## Ways of Working in DSWB
 
 ```{note}
-Ways of Working is a phrase that describes how people participate, collaborate, and interrelate. 
+**Ways of Working** is a phrase that describes how people participate, collaborate, and interrelate. 
 Also known as working agreements, team arrangements, shared expectations, ground rules and group understandings.
+
+Open science projects use open practices in shaping and delivering on their vision, values, principles, norms, policies, culture and project information required to work openly. Read about open science and our commitment to adopting open practices on our website](https://dswb.africa/open-science/).
 ```
+This handbook provides ways and working recommended to work in DSWB.
+Resources in this handbook have been centralised in collaboration with the members of our community through their contributions to the Open Science and Capacity Building Working Group meetings.
 
-In collaboration with our community members, we co-create and standardise our ways of working in DSWB, aiming to engage all community members through inclusive, equitable, and thoughtful approaches.
+In collaboration with our community members, we apply and standardise these ways of working, aiming to engage all community members through inclusive, equitable, and thoughtful approaches.
 
-With a goal to enable inclusive collaboration, good practices in our ways of working will enable our community members to engage in the co-development of the DSWB projects, share and utilise resources effectives and contribute to positive impact.
-
-```{note}
-Open science projects use open practices in shaping and delivering on their vision, values, principles, norms, policies, culture and project information required to work openly.
-```
+With a goal to enable inclusive collaboration, good practices for ways of working in data science will enable our community members to engage in the co-development of the DSWB projects, share and utilise resources effectively, and contribute to their positive impact.
 
 In all our working practices we aim to apply open practices to ensure that all members have opportunities and pathways to lead initiatives and receive recognition in line with the project goals.
-
-This handbook provides tools, practices and methods recommended in DSWB.
-These resources have been centralised in collaboration with different members of our community, through their contributions to the Open Science and Capacity Building Working Group meetings.
 
 ## Project Background
 
@@ -76,7 +73,7 @@ An important project is [*The Turing Way*](https://book.the-turing-way.org/), a 
 DSWB members actively collaborate with *The Turing Way* to curate and share relevant data science practices, which are referenced and recommended in various documents throughout this handbook. Furthermore, to directly address the DSWB community's needs, our members contribute to *The Turing Way* by documenting and openly sharing practices and examples derived from our work.
 
 Read more about our collaboration with *The Turing Way*: {ref}`turing-way-collaboration`.
-``
+```
 
 Documentation for the Ways of Working is developed on our GitHub repository under the DSWB GitHub Organisation, maintained by the Open Science and Capacity Building Working Group: [aphrc-dswb/dswb-open-science-capacity-wg](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg).
 
