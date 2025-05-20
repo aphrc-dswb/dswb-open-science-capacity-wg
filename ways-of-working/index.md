@@ -42,20 +42,25 @@ In all our work, we aim to apply open practices to ensure that all members have 
 ## Who is this handbook for?
 
 This handbook on ways pf working is for all members contributing to DSWB from across the Pathfinder Countries, Technical Partners and their networks.
+Find details about our partners under ["who we are"](https://dswb.africa).
 
 ### Pathfinder Institutions
 
-We would be working with three Pathfinder Institutions:
+The Data Science Without Borders (DSWB) project is an initiative designed to address these challenges by supporting the development of advanced data science pipelines in three African countries:
 
- - the Armauer Hansen Research Institute (AHRI) in Ethiopia 🇪🇹
- - the Institute for Health Research, Epidemiological Surveillance (IRESSEF) in Senegal 🇸🇳
- - and the Training and Douala General Hospital (DGH) in Cameroon 🇨🇲
+ - Armauer Hansen Research Institute (AHRI) in Ethiopia 🇪🇹
+ - Institute for Health Research, Epidemiological Surveillance (IRESSEF) in Senegal 🇸🇳
+ - Douala General Hospital (DGH) in Cameroon 🇨🇲
 
 ### Technical Partners
 
-The London School of Hygiene & Tropical Medicine (LSHTM) and the Committee on Data of the International Science Council (CODATA) collaborate as delivery partners, providing support in platform development. The Africa CDC provides key technical oversight for the project, supporting country engagement, identification of priority use cases and provision of guidance for effective policy engagement.
+Technical Partners in DSWB (listed below) provide technical support such as in tools or platform development, community engagement, identification of priority use cases, prototype development, data handling and provision of guidance for effective policy engagement.
 
-Learn more about our partners on our website under ["who we are"](https://dswb.africa).
+- The London School of Hygiene & Tropical Medicine (LSHTM)
+- Committee on Data of the International Science Council (CODATA)
+- OSPO Now
+- Makerere AI
+- Africa CDC
 
 ## Working Groups Operationalise Ways of Working
 
