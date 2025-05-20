@@ -3,7 +3,21 @@
 
 Data Science Without Borders (DSWB) is an international initiative, funded by the Wellcome Trust and led by the African Population and Health Research Centre (APHRC).
 
-You can learn more about the project and its resources on our website: [https://dswb.africa/](https://dswb.africa/)
+This handbook provides ways and working to facilitate collaboration and co-development approaches in DSWB.
+Resources in this handbook have been centralised in collaboration with the members of our community through their contributions to the Open Science and Capacity Building Working Group meetings.
+
+## Project Overview
+
+Without intending to duplicate the resources available on our website, we provide an overview of DSWB below.
+Details about the DSWB project and its consortia can be found on our website: [https://dswb.africa/](https://dswb.africa/).
+
+**Vision**: Making African Data Findable, Accessible, Interoperable, & Reusable
+
+**Objectives**: The three main objectives of this project are to: 1) strengthen data systems in Pathfinder countries, 2) develop a sustainable environment for collaborative AI/ML platforms, and 3) create a user-friendly platform for AI and Machine Learning (AI/ML) tools.
+
+**Mission**: We are Committed to Strengthening Data Systems, Fostering Collaboration, & Building Capacity.
+
+The impact of inequality in data availability and access is evident, particularly in resource-limited settings like many African nations. The DSWB project aims to foster a collaborative environment that empowers African nations to harness the full potential of AI/ML for improving health outcomes. This African institution-led initiative will leverage artificial intelligence and machine learning (AI/ML) to bridge existing gaps in data accessibility, infrastructure, and expertise.
 
 ## Ways of Working in DSWB
 
@@ -11,22 +25,16 @@ You can learn more about the project and its resources on our website: [https://
 **Ways of Working** is a phrase that describes how people participate, collaborate, and interrelate. 
 Also known as working agreements, team arrangements, shared expectations, ground rules and group understandings.
 
-Open science projects use open practices in shaping and delivering on their vision, values, principles, norms, policies, culture and project information required to work openly. Read about open science and our commitment to adopting open practices on our website](https://dswb.africa/open-science/).
+Open science projects use open practices in shaping and delivering on their vision, mission, norms, policies, culture and project information required to work openly. Read about open science and our commitment to adopting open practices on our website](https://dswb.africa/open-science/).
 ```
-This handbook provides ways and working recommended to work in DSWB.
-Resources in this handbook have been centralised in collaboration with the members of our community through their contributions to the Open Science and Capacity Building Working Group meetings.
 
-In collaboration with our community members, we apply and standardise these ways of working, aiming to engage all community members through inclusive, equitable, and thoughtful approaches.
+In collaboration with our community members, we co-develop, centralise and build a shared understanding of our ways of working, aiming to engage all community members through inclusive, equitable, and thoughtful approaches.
 
-With a goal to enable inclusive collaboration, good practices for ways of working in data science will enable our community members to engage in the co-development of the DSWB projects, share and utilise resources effectively, and contribute to their positive impact.
+With a goal to enable respectful collaboration, practices described across this handbook will enable our community members to engage in the co-development of the DSWB projects, share and utilise resources effectively, and contribute to the positive impact.
 
-In all our working practices we aim to apply open practices to ensure that all members have opportunities and pathways to lead initiatives and receive recognition in line with the project goals.
+In all our work, we aim to apply open practices to ensure that all members have clarity, opportunities and pathways to lead initiatives and receive recognition in line with the project goals.
 
-## Project Background
-
-The three main objectives of this project are to: 1) strengthen data systems in Pathfinder countries, 2) develop a sustainable environment for collaborative AI/ML platforms, and 3) create a user-friendly platform for AI and Machine Learning (AI/ML) tools.
-
-The impact of inequality in data availability and access is evident, particularly in resource-limited settings like many African nations. DSWB will leverage artificial intelligence and machine learning (AI/ML) to bridge existing gaps in data accessibility, infrastructure, and expertise. This African institution-led initiative aims to foster a collaborative environment that empowers African nations to harness the full potential of AI/ML for improving health outcomes.
+## Who is this handbook for?
 
 This handbook on ways pf working is for all members contributing to DSWB from across the Pathfinder Countries, Technical Partners and their networks.
 
@@ -44,7 +52,7 @@ The London School of Hygiene & Tropical Medicine (LSHTM) and the Committee on Da
 
 Learn more about our partners on our website under ["who we are"](https://dswb.africa).
 
-## Working Groups Operationalise Ways of Working in DSWB
+## Working Groups Operationalise Ways of Working
 
 Working Groups within DSWB provide structured spaces for engagement and collaboration around shared data science interests, fostering Communities of Practice.
 
@@ -62,24 +70,24 @@ Working Groups are key channels through which DSWB's ways of working are dissemi
 
 ## Contributing to this Handbook
 
-All of the text in this guide is to help DSWB members engage with each other's work and contribute to the development of collaborative tools, practices and methods.
+All of the text in this guide is to help DSWB members engage with DSWB and each other's work, ultimately contributing to the development of collaborative tools, practices and methods.
+DSWB members are encouraged to read, share, and contribute their insights to enhance this handbook.
+
+Documentation for the Ways of Working is developed on our GitHub repository under the DSWB GitHub Organisation, maintained by the Open Science and Capacity Building Working Group: [aphrc-dswb/dswb-open-science-capacity-wg](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg).
+
+Every thoughtful contribution, however large or small, will empower the DSWB community to develop standard practices, fostering a  supportive culture.
+Please read {ref}`contributing guideline<contribute>` and {ref}`Code of Conduct<coc>` to start contributing via our GitHub repository.
+
+## Collaboration with *The Turing Way*
+
 We also connect, centralise and share knowledge from other community-driven resources.
-
-DSWB members are encouraged to read, share, and contribute their insights to enhance this handbook. Every thoughtful contribution, however large or small, will empower the DSWB community to develop standard practices, fostering an inclusive, collaborative, and supportive culture.
-
-```{note}
 An important project is [*The Turing Way*](https://book.the-turing-way.org/), a collaborator in our efforts to provide DSWB members with access to well-documented and maintained best practices, avoiding duplication within this handbook.
 
 DSWB members actively collaborate with *The Turing Way* to curate and share relevant data science practices, which are referenced and recommended in various documents throughout this handbook. Furthermore, to directly address the DSWB community's needs, our members contribute to *The Turing Way* by documenting and openly sharing practices and examples derived from our work.
 
-Read more about our collaboration with *The Turing Way*: {ref}`turing-way-collaboration`.
-```
-
-Documentation for the Ways of Working is developed on our GitHub repository under the DSWB GitHub Organisation, maintained by the Open Science and Capacity Building Working Group: [aphrc-dswb/dswb-open-science-capacity-wg](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg).
-
-Please read {ref}`contributing guideline<contribute>` and {ref}`Code of Conduct<coc>` to start contributing via our GitHub repository.
-
 Please follow the style guide and related processes described in [*The Turing Way* Community Handbook](https://book.the-turing-way.org/community-handbook/style) to contribute to, maintain and improve resources within this book.
+
+Read more about our collaboration with *The Turing Way*: {ref}`turing-way-collaboration`.
 
 ### Maintainers
 
@@ -98,4 +106,6 @@ licensor endorses you or your use and with no additional restrictions.
 🤝 Acknowledgement
 ---
 
-This repository uses the template created by Malvika and members of *The Turing Way* team, shared under CC-BY 4.0 for reuse: https://github.com/the-turing-way/reproducible-project-template.
+1. The Github repository for this handbook uses the template created by Malvika Sharan and members of *The Turing Way* team, shared under CC-BY 4.0 for reuse: https://github.com/the-turing-way/reproducible-project-template.
+2. The book is implemented using Jupyter Book, attributed to the Executable Books Community. (2020). Jupyter Book (v0.10). Zenodo. https://doi.org/10.5281/zenodo.4539666.
+3. The Turing Way resources are attributed to *The Turing Way* Community. (2025). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.2.3). Zenodo. https://doi.org/10.5281/zenodo.15213042
