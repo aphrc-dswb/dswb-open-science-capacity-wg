@@ -2,7 +2,7 @@
 # Ways of Working in Data Science Without Borders
 
 ```{note}
-This first draft of this handbook is open for review and use by the DSWB community. Additional resources will be added in the coming months. Please explore drafts under discussion/development and add resources from your work via [GitHub issues](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/issues).
+This first draft of the handbook is open for review and use by the DSWB community. Additional resources will be added in the coming months. Please explore drafts under discussion/development and add resources from your work via [GitHub issues](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/issues).
 ```
 
 Data Science Without Borders (DSWB) is an international initiative, funded by the Wellcome Trust and led by the African Population and Health Research Centre (APHRC).
