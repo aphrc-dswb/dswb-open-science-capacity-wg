@@ -27,7 +27,7 @@ In DSWB, we use the following tech stack to meet the needs of our community and 
 
 ## Resource Sharing
 
-- **Informtion and resources for public access and reuse**: Share these on [**Zenodo `dswb-open-science` page**](https://zenodo.org/communities/dswb-open-science/) - [follow instructions](./sharing-resources-on-zenodo.md) to submit your resource. Learn more about {ref}`how to use Zenodo<zenodo>`
+- **Informtion and resources for public access and reuse**: Share these on [**Zenodo `dswb-open-science` page**](https://zenodo.org/communities/dswb-open-science/) - follow instructions on {ref}`how to use Zenodo<zenodo>`
 - **Information and resources that are limited for access by DSWB members**: These can be shared and stored in [**Google Drive**](https://drive.google.com/drive/folders/1Jpkl7EdgH5brpXIgmg6Fdtn7Jlf-OTx0?usp=sharing).
 
 ```{warning}

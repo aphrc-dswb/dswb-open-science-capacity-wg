@@ -30,11 +30,11 @@ To learn more about Zenodo and how to share resources from your work, please ref
 
 Monthly project-wide meetings offer updates on the project’s progress, achievements, and upcoming events. Presentations by different team representatives provide a digestible format for community members, offering a snapshot of recent developments within DSWB.
 
-[Coworking calls](./coworking-calls.md) allow weekly interactions and provide a space for ongoing discussion and troubleshooting. These meetings facilitate self-organised breakout discussions, troubleshooting within projects of attendees' interests, and quiet coworking.
+{ref}`coworking-calls` allow weekly interactions and provide a space for ongoing discussion and troubleshooting. These meetings facilitate self-organised breakout discussions, troubleshooting within projects of attendees' interests, and quiet coworking.
 
 [Working Group meetings](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/ways-of-working/open-science-capacity-building-working-group.md) serve the purpose of fostering Communities of Practice within the DSWB community around shared interests.
 
-Monthly [journal clubs](./journal-club.md) and periodic [challenge clinic](./challenge-clinic.md) as part of the Open Science and Capacity Building Working Group are hosted to engage community on recent publications and discuss challenges openly.
+Monthly {ref}`journal-club` and periodic {ref}`challenge-clinic` as part of the Open Science and Capacity Building Working Group are hosted to engage community on recent publications and discuss challenges openly.
 
 Additional meetings with suitable formats for specific groups (such as hackathons, Turing Way Book Dash etc.) are hosted by different teams to build cohesiveness and alignment.
 

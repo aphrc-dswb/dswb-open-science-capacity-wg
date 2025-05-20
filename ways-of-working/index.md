@@ -2,7 +2,7 @@
 # Ways of Working in Data Science Without Borders
 
 ```{warning}
-This first draft of the handbook is open for review and use by the DSWB community. Additional resources will be added in the coming months. Please explore drafts under discussion/development and add resources from your work via [GitHub issues](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/issues).
+This handbook is in its early stage of development and is open for review and use by the DSWB community. Additional resources will be added in the coming months. Please explore drafts under discussion/development and add resources from your work via [GitHub issues](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/issues).
 ```
 
 Data Science Without Borders (DSWB) is an international initiative, funded by the Wellcome Trust and led by the African Population and Health Research Centre (APHRC).
@@ -12,12 +12,13 @@ Resources in this handbook have been centralised in collaboration with the membe
 
 ## Project Overview
 
-Without intending to duplicate the resources available on our website, we provide an overview of DSWB below.
 Details about the DSWB project and its consortia can be found on our website: [https://dswb.africa/](https://dswb.africa/).
 
-**Vision**: Making African Data Findable, Accessible, Interoperable, & Reusable
+Without duplicating the resources available on our website, we provide an overview of DSWB below.
 
-**Objectives**: The three main objectives of this project are to: 1) strengthen data systems in Pathfinder countries, 2) develop a sustainable environment for collaborative AI/ML platforms, and 3) create a user-friendly platform for AI and Machine Learning (AI/ML) tools.
+**Vision**: Making African Data Findable, Accessible, Interoperable, & Reusable.
+
+**Objectives**: The three main objectives of this project are to: 1) strengthen data systems in Pathfinder countries, 2) develop a sustainable environment for collaborative and replicable AI/ML platforms, and 3) create a user-friendly (low- and no-code) platform for AI and Machine Learning (AI/ML) tools.
 
 **Mission**: We are Committed to Strengthening Data Systems, Fostering Collaboration, & Building Capacity.
 
@@ -96,7 +97,7 @@ Read more about our collaboration with *The Turing Way*: {ref}`turing-way-collab
 ### Maintainers
 
 This handbook has been set up by Malvika Sharan and maintained by Precious Onyewuchi from the OSPO Now team to support the work DSWB community.
-Please reach out to them via email or Discord, or [open an issue](../../issues) to share references or ideas related to the development of this project.
+Please reach out to them via email or Discord, or [open an issue](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/issues) to share references or ideas related to the development of this project.
 
 ♻️ License
 ---
