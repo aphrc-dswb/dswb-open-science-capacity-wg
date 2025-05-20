@@ -25,7 +25,7 @@ The impact of inequality in data availability and access is evident, particularl
 **Ways of Working** is a phrase that describes how people participate, collaborate, and interrelate. 
 Also known as working agreements, team arrangements, shared expectations, ground rules and group understandings.
 
-Open science projects use open practices in shaping and delivering on their vision, mission, norms, policies, culture and project information required to work openly. Read about open science and our commitment to adopting open practices on our website](https://dswb.africa/open-science/).
+Open science projects use open practices in shaping and delivering on their vision, mission, norms, policies, culture and project information required to work openly. Read about open science and our commitment to adopting open practices on our website: [dswb.africa/open-science](https://dswb.africa/open-science/).
 ```
 
 In collaboration with our community members, we co-develop, centralise and build a shared understanding of our ways of working, aiming to engage all community members through inclusive, equitable, and thoughtful approaches.
@@ -58,8 +58,8 @@ Working Groups within DSWB provide structured spaces for engagement and collabor
 
 DSWB currently hosts the following working groups:
 
-1. Open Science and Capacity Building Working Group
-2. Data Harmonisation and Platform Working Group
+1. [Open Science and Capacity Building Working Group](https://dswb.africa/open-science-and-capacity-building-work-group/)
+2. [Platform Development and Data Harmonisation Working Group](https://dswb.africa/platform-development-and-data-harmonization/)
 3. Students Working Group
 
 More information about each working group is available on our website under ["What We Do"](https://dswb.africa).
@@ -73,7 +73,7 @@ Working Groups are key channels through which DSWB's ways of working are dissemi
 All of the text in this guide is to help DSWB members engage with DSWB and each other's work, ultimately contributing to the development of collaborative tools, practices and methods.
 DSWB members are encouraged to read, share, and contribute their insights to enhance this handbook.
 
-Documentation for the Ways of Working is developed on our GitHub repository under the DSWB GitHub Organisation, maintained by the Open Science and Capacity Building Working Group: [aphrc-dswb/dswb-open-science-capacity-wg](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg).
+Documentation for the Ways of Working is developed on our GitHub Organisation (aphrc-dswb) under the Open Science and Capacity Building Working Group repository: [aphrc-dswb/dswb-open-science-capacity-wg](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg).
 
 Every thoughtful contribution, however large or small, will empower the DSWB community to develop standard practices, fostering a  supportive culture.
 Please read {ref}`contributing guideline<contribute>` and {ref}`Code of Conduct<coc>` to start contributing via our GitHub repository.
