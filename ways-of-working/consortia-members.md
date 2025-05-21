@@ -36,10 +36,10 @@ You can learn about the technical partners on our website: https://dswb.africa/c
 
 Below are the primary representatives from these institutions:
 
-- Africa CDC: Dr. Elvis Temfack
-- CODATA: Jay Greenfield
-- London School of Hygiene and Tropical Medicine: Tathagata Bhattacharjee
-- Makerere AI: Joyce Nabende
-- OSPO Now: Raphael Sonabend
+- Africa CDC (provides technical oversight and support to provide context and alignment with the African Union Data Policy: Dr. Elvis Temfack
+- CODATA (supports regarding data sharing practices and using international standards for describing data and metadata): Jay Greenfield
+- London School of Hygiene and Tropical Medicine (supports regarding training in appropriate data science methods in each country, depending on the local needs and resources available.): Tathagata Bhattacharjee
+- Makerere AI (provides ethical AI and natural language processing expertise to the project: Joyce Nabende
+- OSPO Now (provides strategies and support to enhance open-source adoption, including training, working groups, hands-on development, and direct consulting): Raphael Sonabend
 
 _You can contact the listed members by email. Please request contact details from Miranda._
