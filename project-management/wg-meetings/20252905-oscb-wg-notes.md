@@ -54,6 +54,6 @@ Date: May 29th, 2025
 
 ### Notes from previous meeting
 
-   * We held a challenge clinic. 
+   * We held a challenge clinic, and had contributions from different members of the community. 
 
 More details can be found [here](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/wg-meetings/20250515-oscb-wg-notes.md). 
