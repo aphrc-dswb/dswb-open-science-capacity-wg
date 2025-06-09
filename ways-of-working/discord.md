@@ -14,7 +14,7 @@ This platform offers a lightweight solution for instant messaging and audio call
 * **#interesting-resources:** You can share resources and materials you think are interesting or useful to the DSWB project/community members.
 * **#social-breakroom:** Our informal room, here we come to get a break and share random/fun conversations. In this channel, feel free to let us know about your favourite pet pictures!
 
-We also have working group-specific channels:
+**We also have working group-specific channels:**
 
 * **#open-science-capacity-building-wg:** Join this channel to share and receive information around the DSWB Open Science and Capacity Building Working Group.
 * **#data-harmonization-and-platform-wg:** Join this channel to share and receive information around the DSWB Data Harmonization and Platform Working Group.
@@ -27,7 +27,8 @@ If there are any other channels you'd like to see in the workspace, or ones that
 
 ## Best Practices for Using our Community Discord Channel
 
-Our Discord community abides by our [Code of Conduct](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/e7a2687fa95b4d229173a70695f4c201dc5759e9/CODE_OF_CONDUCT.md) listed in the **#community-guidelines** channel, and also [here](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/e7a2687fa95b4d229173a70695f4c201dc5759e9/CODE_OF_CONDUCT.md).
+Our Discord community abides by the code of conduct listed in the **#community-guidelines** channel, and a more detailed one [here](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/e7a2687fa95b4d229173a70695f4c201dc5759e9/CODE_OF_CONDUCT.md).
+
 
 **For communication, here are some guidelines that would make interactions inclusive and enabling for everyone in the community:**
 
