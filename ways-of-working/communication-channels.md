@@ -24,6 +24,12 @@ This DSWB community page on Zenodo is the main platform to archive and preserve 
 
 To learn more about Zenodo and how to share resources from your work, please refer to [this document](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/ways-of-working/sharing-resources-on-zenodo.md).
 
+## Discord
+
+The DSWB Discord channel is where community members interact and communicate amongnst each other. We also have dedicated channels for the different WGs within the community. 
+
+We have a page dedicated to explaining more about how we use Discord. Find out more information [here](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/discord). 
+
 ## Different Community Meetings
 
 **Different kinds of meetings** are hosted within DSWB, as [listed here](https://www.google.com/search?q=./dswb-meetings.md).
