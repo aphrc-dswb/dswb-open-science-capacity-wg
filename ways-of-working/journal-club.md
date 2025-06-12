@@ -11,15 +11,18 @@ These Journal Club sessions will provide a structured platform for us to delve i
 
 Our monthly meetings will convene on the first Wednesday of each month.
 
-| Date           | Team                       |
-| -------------- | -------------------------- |
-| 4 June 2025    | IRESSEF - Confirmed        |
-| 2 July 2025    | DGH - Confirmed            |
-| 6 August 2025  | APHRC - Confirmed          |
-| 3 September 2025 | Request AHRI Team to lead   |
-| 1 October 2025 | Request IRESSEF Team to lead |
-| 5 November 2025  | DGH - Confirmed            |
-| 3 December 2025  | Request APHRC Team to lead |
+| Date           | Team                       | Papers          | Led By |
+| -------------- | -------------------------- | ----------------- | ------------ |
+| 16 April 2025  | OSPO Now                   | [Phung e al, 2024](https://doi.org/10.1038/s41467-025-56826-6), [Zenodo slides](https://zenodo.org/records/15230100)|  Malvika & Precious |
+| 4 June 2025 | IRESSEF | [Frevent el al (2023)](https://academic.oup.com/jrsssc/article/72/2/450/7067910?login=false) and [Daffe et al (2022)](https://iwaponline.com/jwh/article/20/11/1654/91574/Water-sanitation-and-hygiene-access-in-Senegal-and) | Moctar and team |
+2 July 2025 | DGH  | TBA | TBA
+6 August 2025 | APHRC  | TBA | TBA
+3 September 2025 | AHRI  | TBA | TBA
+1 October 2025 | IRESSEF  | TBA | TBA
+5 November 2025 | DGH  | TBA | TBA
+3 December 2025 | APHRC  | TBA | TBA
+
+
 
 ## Format
 
