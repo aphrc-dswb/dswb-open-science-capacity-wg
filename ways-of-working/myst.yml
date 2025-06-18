@@ -23,6 +23,7 @@ project:
       children:
         - file: coworking-calls.md
         - file: open-science-wg.md
+        - file: data-harmonization-platform-wg.md
         - file: challenge-clinic.md
         - file: journal-club.md
     - file: github.md
