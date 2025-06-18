@@ -18,7 +18,7 @@ This file contains list of resources shared with, and within the community relev
    * Information for Journal Club Materials are on the Ways of Working document, [here](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/journal-club).
    
 4. AI Tools to aid Literary Review:
-   * Notebook LLM for summarising the articles: http://notebooklm.google.com/
+   * Notebook LLM: http://notebooklm.google.com/
    * Perplexity AI: http://perplexity.ai/ 
 
    
