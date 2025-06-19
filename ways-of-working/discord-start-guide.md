@@ -1,3 +1,4 @@
+(discord-start-guide)=
 # Quick Start Guide for Discord
 
 Welcome to the community Discord group: a place for you to network, collaborate, exchange resources and share ideas with others in the community.
