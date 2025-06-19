@@ -2,7 +2,7 @@
 
 Welcome to the community Discord group: a place for you to network, collaborate, exchange resources and share ideas with others in the community.
 
-**Table of Content**
+**Table of Contents**
 
 1. [Setting up your account](#setting-up-your-account)
 2. [Notification settings](#channel-notification-settings)
