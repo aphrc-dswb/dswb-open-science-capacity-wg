@@ -44,7 +44,7 @@ The images below show you how to do that:
 If another group member posts something of particular interest, you can choose to follow that thread. Find how to reply in thread in [Section 3](#communicating-with-others).
 
 **On webapp:**
-1. Hover/Click the message to reveal different prompts, click on the `right pointing curved arrow` to the right of the original post. Hovering over the icon should be "`reply`".
+1. Hover over or click the message to reveal different prompts, and click on the `right pointing curved arrow` to the right of the original post. Hovering over the icon should be "`reply`".
 <img width="863" alt="a screenshot displaying the reply icon on Discord" src="https://github.com/user-attachments/assets/7c32a52b-9eff-47e9-a6bd-fb7d57126c3b" />
 
 
