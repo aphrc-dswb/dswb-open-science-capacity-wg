@@ -20,9 +20,9 @@ Welcome to the community Discord group: a place for you to network, collaborate,
 
 These images guide you, but you can also check the main documentation, [here]( https://support.discord.com/hc/en-us/articles/12620128861463-New-Usernames-Display-Names#h_01GZHKGNP2FYNFSAJB3DW2E4PN): 
 
-<img width="934" alt="edit-profile-image-1" src="https://github.com/user-attachments/assets/abac1c68-8902-46f6-9fb5-8b628e2c0f8f" />
+<img width="934" alt="Image displaying how to edit your profile on Discord - Step 1" src="https://github.com/user-attachments/assets/abac1c68-8902-46f6-9fb5-8b628e2c0f8f" />
 
-<img width="746" alt="edit-profile-image-2" src="https://github.com/user-attachments/assets/0ecc331d-b040-418f-9d2a-e4c4fff4e37f" />
+<img width="746" alt="Image displaying how to edit your profile on Discord - Step 2" src="https://github.com/user-attachments/assets/0ecc331d-b040-418f-9d2a-e4c4fff4e37f" />
 
 (channel-notification-settings)=
 ## 2. Channel settings
@@ -35,9 +35,9 @@ Other WG channels are made public, so please feel free to browse and join at wil
 
 The images below show you how to do that:
 
-<img width="1440" alt="a screenshot displaying how to find channels on discord - this is the first image." src="https://github.com/user-attachments/assets/93e01095-682c-416e-978c-6d9e17e74294" />
+<img width="1440" alt="Screenshot image displaying how to find channels on Discord - Step 1." src="https://github.com/user-attachments/assets/93e01095-682c-416e-978c-6d9e17e74294" />
 
-<img width="1422" alt="a screenshot displaying how to find channels on discord - this is the second image." src="https://github.com/user-attachments/assets/48a9b0c8-e98e-4c3e-bd0d-a84bd2bfb3bf" />
+<img width="1422" alt="Screenshot image displaying how to find channels on discord - Step 2" src="https://github.com/user-attachments/assets/48a9b0c8-e98e-4c3e-bd0d-a84bd2bfb3bf" />
 
 
 #### Following a specific thread
@@ -45,14 +45,14 @@ If another group member posts something of particular interest, you can choose t
 
 **On webapp:**
 1. Hover over or click the message to reveal different prompts, and click on the `right pointing curved arrow` to the right of the original post. Hovering over the icon should be "`reply`".
-<img width="863" alt="a screenshot displaying the reply icon on Discord" src="https://github.com/user-attachments/assets/7c32a52b-9eff-47e9-a6bd-fb7d57126c3b" />
+<img width="863" alt="Screenshot image displaying the message reply feature on Discord web app" src="https://github.com/user-attachments/assets/7c32a52b-9eff-47e9-a6bd-fb7d57126c3b" />
 
 
 **On mobile:**
 
 1. Long-press the message to reveal different prompts, click on the `right-pointing curved arrow` to the right of the original post, and select “reply” from the dropdown.
 
-![mobile-screenshot-of-discord-reply-feature](https://github.com/user-attachments/assets/e282bd20-466f-4953-a15d-656371556737)
+![Screenshot image displaying the message reply feature on Discord mobile app](https://github.com/user-attachments/assets/e282bd20-466f-4953-a15d-656371556737)
 
 (communicating-with-others)=
 ## 3. Communicating with others
@@ -91,7 +91,7 @@ It can be helpful to others when you’re sharing resources and brainstorming so
 
 However, sometimes you want to start a private conversation. To do this, click on the profile of the person you would like to message, and type in the message box.
 
-<img width="481" alt="send-a-message" src="https://github.com/user-attachments/assets/ebd9ebbf-58a2-450a-8179-719761007404" />
+<img width="481" alt="Screenshot image displaying how to send a message on Discord" src="https://github.com/user-attachments/assets/ebd9ebbf-58a2-450a-8179-719761007404" />
 
 #### Direct message when necessary
 You may feel tempted to use DM instead of asking questions in dedicated channels. If an instructor believes others will benefit from the answer, they will probably encourage you to ask your question in the appropriate channel. If you have a question, others likely have the same one. We are all learning from each other.
