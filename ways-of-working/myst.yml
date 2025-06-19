@@ -19,8 +19,9 @@ project:
     - file: communication-channels.md
       children:
         - file: dswb-tech-stack.md
+   - file: discord.md    
+     children:
         - file: discord-start-guide.md
-        - file: discord.md
     - file: dswb-meetings.md
       children:
         - file: coworking-calls.md
