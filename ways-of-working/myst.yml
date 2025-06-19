@@ -19,6 +19,9 @@ project:
     - file: communication-channels.md
       children:
         - file: dswb-tech-stack.md
+   - file: discord.md    
+     children:
+        - file: discord-start-guide.md
     - file: dswb-meetings.md
       children:
         - file: coworking-calls.md
@@ -26,7 +29,6 @@ project:
         - file: challenge-clinic.md
         - file: journal-club.md
     - file: github.md
-    - file: discord.md
     - file: zenodo.md
       children:
         - file: zenodo-guide.md
