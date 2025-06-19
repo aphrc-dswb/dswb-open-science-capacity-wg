@@ -19,6 +19,7 @@ project:
     - file: communication-channels.md
       children:
         - file: dswb-tech-stack.md
+    - file: multi-lingual-consideration.md    
     - file: dswb-meetings.md
       children:
         - file: coworking-calls.md
