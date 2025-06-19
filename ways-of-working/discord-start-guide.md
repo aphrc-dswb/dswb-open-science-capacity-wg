@@ -1,8 +1,8 @@
 # Quick Start Guide for Discord
 
-Welcome to the community Discord group: a place for you to network, collaborate, exchanges resources and share ideas with others in the community.
+Welcome to the community Discord group: a place for you to network, collaborate, exchange resources and share ideas with others in the community.
 
-**Table of content**
+**Table of Content**
 
 1. [Setting up your account](#setting-up-your-account)
 2. [Notification settings](#channel-notification-settings)
@@ -13,9 +13,9 @@ Welcome to the community Discord group: a place for you to network, collaborate,
 
 ### PROFILE
 
-* **Your username** – please use a name by which others will be able to identify you. 
-* **Your avatar** – please add a profile picture or other identifier that you’re comfortable with so that others can associate your posts with you more easily.
-* **Your time zone** – this helps others know whether it’s a reasonable time of day to get in touch.
+* **Your username**: Please use a name by which others will be able to identify you. 
+* **Your avatar**: Please add a profile picture or other identifier that you’re comfortable with so that others can associate your posts with you more easily.
+* **Your time zone**: This helps others know whether it’s a reasonable time of day to get in touch.
 
 These images guide you, but you can also check the main documentation, [here]( https://support.discord.com/hc/en-us/articles/12620128861463-New-Usernames-Display-Names#h_01GZHKGNP2FYNFSAJB3DW2E4PN): 
 
@@ -49,7 +49,7 @@ If another group member posts something of particular interest, you can choose t
 
 **On mobile:**
 
-1. Long-press the message to reveal different prompts, click on the `right-pointing curved arrow` to the right of the original post, and select “`reply`” from the dropdown.
+1. Long-press the message to reveal different prompts, click on the `right-pointing curved arrow` to the right of the original post, and select “reply” from the dropdown.
 
 ![mobile-screenshot-of-discord-reply-feature](https://github.com/user-attachments/assets/e282bd20-466f-4953-a15d-656371556737)
 
@@ -60,12 +60,12 @@ If another group member posts something of particular interest, you can choose t
 
 #### Use threads to continue conversations
 
-* When someone posts a brand new item in a channel, anyone in the channel can reply directly to it, creating a thread. Threads allow separate conversations to take place in the group without confusion – and for members to choose which of those conversations to follow more closely.
+* When someone posts a brand-new item in a channel, anyone in the channel can reply directly to it, creating a thread. Threads allow separate conversations to take place in the group without confusion, and for members to choose which of those conversations to follow more closely.
 * To add a comment to a thread, click the right-pointing curved arrow to the right of an existing post. Images are attached above.
 
 #### Use \@channel, \@here and other handles sparingly
 
-* If you type **\@everyone** or **\@here** or other general handles (**\@participants** or **\@instructors**, & **\@admin**) in a post or comment that will send a notification to everyone in that channel. Please use this only for items that really do need everyone’s attention.
+* If you type **\@everyone** or **\@here** or other general handles (**\@participants** or **\@instructors**, & **\@admin**) in a post or comment, that will send a notification to everyone in that channel. Please use this only for items that really do need everyone’s attention.
 
 #### Respect the context of this shared space
 
@@ -74,7 +74,7 @@ If another group member posts something of particular interest, you can choose t
 
 #### Not all communications will be synchronous
 
-* While IM-based conversations can feel very immediate, please don’t feel that you have to respond to messages immediately, nor expect others to respond immediately. We’re all busy, really busy!
+* While IM-based conversations can feel very immediate, please don’t feel that you have to respond to messages immediately, nor expect others to respond immediately. We are all working in different time zones, with different day-to-day priorities!
 
 #### Message Editing & Deletion
 
@@ -84,7 +84,8 @@ If another group member posts something of particular interest, you can choose t
 
 * If you joined using two different email addresses, you may have unintentionally created two separate accounts. In this case, please contact Precious Onyewuchi. She can help you delete one of the accounts of your choice, allowing you to maintain a single active account linked to your preferred email address.
 
-### SENDING PRIVATE/DIRECT MESSAGES
+### SENDING PRIVATE/DIRECT MESSAGES (DMs)
+
 It can be helpful to others when you’re sharing resources and brainstorming solutions to “work out loud” in a specific thread because then your learning becomes a future resource for others, too.
 
 However, sometimes you want to start a private conversation. To do this, click on the profile of the person you would like to message, and type in the message box.
@@ -92,7 +93,7 @@ However, sometimes you want to start a private conversation. To do this, click o
 <img width="481" alt="send-a-message" src="https://github.com/user-attachments/assets/ebd9ebbf-58a2-450a-8179-719761007404" />
 
 #### Direct message when necessary
-You may feel tempted to use DM instead of asking questions in dedicated channels. If an instructor believes others will benefit from the answer, they will probably encourage you to ask your question in the appropriate channel. If you have a question, others likely have the same one, we are all learning from each other.
+You may feel tempted to use DM instead of asking questions in dedicated channels. If an instructor believes others will benefit from the answer, they will probably encourage you to ask your question in the appropriate channel. If you have a question, others likely have the same one. We are all learning from each other.
 
 That said, DM are useful to discuss privately with other people (one or many) and you don't want to flood a channel.
 
@@ -102,5 +103,5 @@ Yes, you can send files (< 10 mb) in public channels and in direct messages.
 
 # References
 
-* To learn more on how to communicate in Discord, please refer to [their official support page](https://support.discord.com/hc/en-us/articles/360034632292-Sending-Messages).
+* To learn more about how to communicate in Discord, please refer to [their official support page](https://support.discord.com/hc/en-us/articles/360034632292-Sending-Messages).
 * The Discord section was adapted from _The Turing Way Community. (2025). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. 10.5281/ZENODO.3233853_.
