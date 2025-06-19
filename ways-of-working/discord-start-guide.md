@@ -29,7 +29,7 @@ These images guide you, but you can also check the main documentation, [here]( h
 
 ### How to find, join and create channels
 
-By default, you’re automatically added to the main channels that everyone belongs to (for example, #general, #introduce-yourself, #social-breakroom & the working group (WG) channel you indicated interest in upon first join).
+By default, you are automatically added to the main channels that everyone belongs to (for example, #general, #introduce-yourself, #social-breakroom & the Working Groups (WG) channel you indicated interest in upon first join).
 
 Other WG channels are made public, so please feel free to browse and join at will.
 
