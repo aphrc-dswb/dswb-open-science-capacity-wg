@@ -10,9 +10,11 @@ This platform offers a lightweight solution for instant messaging and audio call
 * **#introduce-yourself:** This channel lets us know when new members join the community, and enables us to properly welcome and orient them as new members!
 * **#community-guidelines:** This channel contains our community guidelines and lets community members access our code of conduct very easily.
 * **#general:** We keep you updated on recurring community calls, community events, and other general conversations around the DSWB project.
-* **#ask-questions:** Use this channel to ask any question you might have - general or specific, and we’ll make sure to redirect you to the right resources.
 * **#interesting-resources:** You can share resources and materials you think are interesting or useful to the DSWB project/community members.
 * **#social-breakroom:** Our informal room, here we come to get a break and share random/fun conversations. In this channel, feel free to let us know about your favourite pet pictures!
+
+<img width="1171" alt=" image of the general community page of the DSWB community" src="https://github.com/user-attachments/assets/572273cb-8179-4a36-a60c-bae592b0fa72" />
+
 
 **We also have working group-specific channels:**
 
