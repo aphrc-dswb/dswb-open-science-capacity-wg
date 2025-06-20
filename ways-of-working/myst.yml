@@ -22,6 +22,7 @@ project:
     - file: discord.md    
       children:
         - file: discord-start-guide.md
+    - file: multi-lingual-consideration.md    
     - file: dswb-meetings.md
       children:
         - file: coworking-calls.md
