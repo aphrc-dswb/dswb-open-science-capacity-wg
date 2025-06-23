@@ -8,7 +8,7 @@ This work involves acquiring, cleaning, mapping, transforming, integrating, and 
 **Who organises the DH-P WG Meeting?**
 
 These meetings are organised by the members of APHRC team, and other technical partners.
-The meeting is currently chaired by Steve Cygu, Pauline Ondeso and Miranda Barasa.
+The meeting is currently chaired by Steve Cygu, Pauline Andeso and Miranda Barasa.
 
 ## Duration and Meeting Frequency
 
