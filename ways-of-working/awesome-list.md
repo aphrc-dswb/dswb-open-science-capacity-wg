@@ -6,12 +6,16 @@ This file contains a list of resources shared with and within the community rele
    * Journal Club: All materials for each session can be found [here](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/journal-club).
    * Data as scientific currency: Challenges experienced by researchers with sharing health data in sub-Saharan Africa, _Chabilall J, Brown Q, Cengiz N, Moodley K (2024)_. PLOS Digit Health 3(10): e0000635. https://doi.org/10.1371/journal. pdig.0000635
     
-   
 2. AI Tools to aid Literary Review:
    * Notebook LLM: http://notebooklm.google.com/
    * Perplexity AI: http://perplexity.ai/
      
-3. Opportunities to explore:
+3. Hackathon Guide:
+   * [A Handbook for AI-Based Hackathon on Retrospective Record Linkage](https://doi.org/10.5281/zenodo.15799946)
+     
+     Citation: _Bhattacharjee, T. (2025). Bridging Records: A Handbook for AI-Based Hackathon on Retrospective Record Linkage. Zenodo. https://doi.org/10.5281/zenodo.15799946_
+     
+4. Opportunities to explore:
    * [Linux Foundation Summer Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_accepting)
    * [Open hackathons](https://www.openhackathons.org/s/upcoming-events)
    * [MLH Fellowship](https://fellowship.mlh.io/)
@@ -22,7 +26,7 @@ This file contains a list of resources shared with and within the community rele
    * [AI Summer School](https://ai-summer-school.inpt.ac.ma/)
    * [Latin America Summer School](https://www.lacoro.org/)
 
-4. [Tooling for p2p systems in distributed deep learning - LocalAI](https://localai.io/features/distribute/)
+5. [Tooling for p2p systems in distributed deep learning - LocalAI](https://localai.io/features/distribute/)
    
 
    
