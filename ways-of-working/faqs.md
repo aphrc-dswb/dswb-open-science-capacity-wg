@@ -5,7 +5,6 @@
 <details>
 <summary><b> What is DSWB? </b></summary>
 <br>
-
 The Data Science Without Borders (DSWB) community is an international initiative, funded by the Wellcome Trust and led by the African Population and Health Research Centre (APHRC).
 
 More details about the project can be found on our website [here](https://dswb.africa/). You can find out about how we work, and other processes within the community on
@@ -41,7 +40,6 @@ You can find out more about our meetings, [here](https://aphrc-dswb.github.io/ds
 <summary><b> What tool is used for asynchronous (async) communication? </b></summary>
 <br>
 Our community uses Discord for asynchronous conversations and to keep up with discussions. If you would like to be a part of the community, please send a message to Precious (precious@osponow.com).
-
 You can learn about how to use Discord in [this chapter](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/discord) in the Ways of Working document. 
 </details>
 
@@ -49,7 +47,6 @@ You can learn about how to use Discord in [this chapter](https://aphrc-dswb.gith
 <summary><b> Where can I learn how to use GitHub? </b></summary>
 <br>
 Please learn how to use GitHub on this [page](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/github). 
-
 We have a repository dedicated to exploring GitHub by doing so on our community GitHub page. Feel free to experiment and practice your learning of GitHub with this exercise [here](https://github.com/aphrc-dswb/dswb-workshops). 
 Feel free to break things on that repo, as you learn, we are here to support and guide you!
 </details>
