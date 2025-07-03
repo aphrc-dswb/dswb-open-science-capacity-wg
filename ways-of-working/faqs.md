@@ -6,7 +6,6 @@
 <summary><b> What is DSWB? </b></summary>
 <br>
 The Data Science Without Borders (DSWB) community is an international initiative, funded by the Wellcome Trust and led by the African Population and Health Research Centre (APHRC).
-
 More details about the project can be found on our website [here](https://dswb.africa/). You can find out about how we work, and other processes within the community on
 our Ways of Working handbook, [here](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/). 
 </details>
