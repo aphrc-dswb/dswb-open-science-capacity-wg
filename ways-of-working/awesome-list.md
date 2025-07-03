@@ -1,4 +1,4 @@
-# Resources Relevant to the DSWB Community
+# Awesome List - Resources 
 
 This file contains a list of resources shared with and within the community relevant for the Data Science Without Borders project.
 
