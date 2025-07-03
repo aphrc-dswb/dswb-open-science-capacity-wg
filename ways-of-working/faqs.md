@@ -6,19 +6,19 @@
 <summary><b> What is DSWB? </b></summary>
 <br>
 The Data Science Without Borders (DSWB) community is an international initiative, funded by the Wellcome Trust and led by the African Population and Health Research Centre (APHRC).
-<br> More details about the project can be found on our website <a href="https://dswb.africa/"> here <a/>. You can find out about how we work and other processes within the community on our Ways of Working handbook, <a href="https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/"> here <a/>. 
+<br> More details about the project can be found on our website <a href="https://dswb.africa/"> here </a>. You can find out about how we work and other processes within the community on our Ways of Working handbook, <a href="https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/"> here </a>. 
 </details>
 
 <details>
 <summary><b> Where can I learn about the way the community works? </b></summary>
 <br>
-You can find out about how we work and other processes within the community on our Ways of Working handbook, <a href="https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/"> here <a/>. 
+You can find out about how we work and other processes within the community on our Ways of Working handbook, <a href="https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/"> here </a>. 
 </details>
 
 <details>
 <summary><b> What is the organizational structure of DSWB? </b></summary>
 <br>
-Learn about our various consortia members and the project structure on our <a href="https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/consortia-members"> Ways of Working Handbook <a/>.
+Learn about our various consortia members and the project structure on our <a href="https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/consortia-members"> Ways of Working Handbook </a>.
 </details>
 
 <details>
