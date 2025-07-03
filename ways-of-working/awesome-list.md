@@ -11,7 +11,7 @@ This file contains a list of resources shared with and within the community rele
    * Notebook LLM: http://notebooklm.google.com/
    * Perplexity AI: http://perplexity.ai/
      
-3. Open Source opportunities to explore:
+3. Opportunities to explore:
    * [Linux Foundation Summer Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_accepting)
    * [Open hackathons](https://www.openhackathons.org/s/upcoming-events)
    * [MLH Fellowship](https://fellowship.mlh.io/)
