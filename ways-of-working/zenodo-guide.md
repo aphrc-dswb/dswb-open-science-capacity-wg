@@ -19,9 +19,15 @@ If you are new to Zenodo, you can get started quickly with their extensive guida
 
 * Specifically, follow the instructions for creating an account: [https://help.zenodo.org/docs/get-started/create-an-account/](https://help.zenodo.org/docs/get-started/create-an-account/)
 
-* After you have created an account, you can follow this step-by-step guide below, or follow instructions on Zenodo to upload your work: [https://help.zenodo.org/docs/deposit/create-new-upload/](https://help.zenodo.org/docs/get-started/quickstart/)
+* After you have created an account, you can follow this step-by-step guide below, or follow the instructions on Zenodo to upload your work: [https://help.zenodo.org/docs/deposit/create-new-upload/](https://help.zenodo.org/docs/get-started/quickstart/)
 
 * Once your document is uploaded, follow these steps to submit it to the "dswb-open-science" community: [https://help.zenodo.org/docs/share/submit-to-community/](https://help.zenodo.org/docs/share/submit-to-community/).
+
+<br>
+
+```{warning}
+Please be careful not to create an account on the Sandbox Zenodo page: https://sandbox.zenodo.org/deposit.  It is not the same as the official Zenodo page.
+```
 
 ### Step-by-step instructions for uploading to Zenodo and including in the "dswb-open-science" community
 
