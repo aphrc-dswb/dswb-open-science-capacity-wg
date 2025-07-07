@@ -7,14 +7,16 @@ For planning, hosting or attending events, please refer to the good practices of
 
 Please subscribe to the community calendar to get these meetings added to your own calendar: [Click this link to subscribe](https://calendar.google.com/calendar/ical/47502bf06531b55e6e23c00bc11c7dcdddcef193876eb6bdb463e4ddf7eb5d1e%40group.calendar.google.com/public/basic.ics).
 
-- Project meetings: Monthly at **14:00 WAT on Wednesdays**.
-- Open Science and Capacity Building Working Group Meetings: Biweekly at **14:00 WAT on Thursdays**. Details in {ref}`open-science-wg`.
-- Data Platform and Harmonisation Working Group meetings: Biweekly at **14:00 WAT on Thursdays**. It alternates on the week when the Open Science and Capacity Building Working Group meetings are not held.
-- Coworking Calls: Weekly, at **13:00 WAT on Wednesdays**, except when Journal Club is hosted. Details in {ref}`coworking-calls`.
-- Journal Club: Monthly on the first **13:00 EAT on Wednesdays**. Details in {ref}`journal`.
-- Coordinators meeting: Biweekly at **16:00 WAT on Tuesdays**, dates announced by the APHRC team.
-- Meetings for partners and the steering committee representatives: Quarterly, dates announced by the APHRC team.
-- Annual in-person meetings: Annually, dates are announced by the APHRC team.
+- **Project meetings:** Monthly at **14:00 WAT on Wednesdays**.
+- **Open Science and Capacity Building Working Group Meetings:** Biweekly at **14:00 WAT on Thursdays**. Details in {ref}`open-science-wg`.
+- **Data Platform and Harmonisation Working Group meetings:** Biweekly at **14:00 WAT on Thursdays**. It alternates on the week when the Open Science and Capacity Building Working Group meetings are not held.
+- **Coworking Calls:** Weekly, at **13:00 WAT on Wednesdays**, except when Journal Club is hosted. Details in {ref}`coworking-calls`.
+- **Journal Club:** Monthly at **13:00 EAT on the first Wednesdays** of the month. Details in {ref}`journal-club`.
+- **Coordinators meeting:** Biweekly at **16:00 WAT on Tuesdays**, dates announced by the APHRC team.
+- **Meetings for partners and the steering committee representatives:** Quarterly, dates announced by the APHRC team.
+- **Annual in-person meetings:** Annually, dates are announced by the APHRC team.
+- **External meetings:** We periodically host public webinars or events that are open to external participants. These usually take place on Working Group (WG) meeting days, and invitations are shared via our social media channels.
+
 
 ## Important Considerations
 
