@@ -68,7 +68,7 @@ If another group member posts something of particular interest, you can choose t
 
 * If you type general handles like **\@everyone** or **\@here** in a post or comment, that will notify everyone in that channel. Please use this only for items that do need everyone’s attention.
 
-If you are unsure what category the post you would like to make is under, feel free to ask Precious (@Precious GMT+1) on Discord for guidance.
+If you are unsure what category the post you would like to make is under, feel free to ask Precious (\@Precious GMT+1) on Discord for guidance.
 
 #### Respect the context of this shared space
 
@@ -85,7 +85,7 @@ If you are unsure what category the post you would like to make is under, feel f
 
 #### Account Management
 
-* If you joined using two different email addresses, you may have unintentionally created two separate accounts. In this case, please contact Precious Onyewuchi (@Precious GMT+1). She can help you delete one of the accounts of your choice, allowing you to maintain a single active account linked to your preferred email address.
+* If you joined using two different email addresses, you may have unintentionally created two separate accounts. In this case, please contact Precious Onyewuchi (\@Precious GMT+1). She can help you delete one of the accounts of your choice, allowing you to maintain a single active account linked to your preferred email address.
 
 ### SENDING PRIVATE/DIRECT MESSAGES (DMs)
 
