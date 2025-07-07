@@ -48,4 +48,9 @@ One key initiative in this effort is making *The Turing Way* resources available
 
 To participate in the translation initiatives please read the [Translation chapter in Community Handbook](https://book.the-turing-way.org/community-handbook/translation) and join the Translation and Localisation Working Group in *The Turing Way*.
 
-*We encourage all interested community members to get in touch with Malvika and Precious, who will support you in navigating, using and contributing to *The Turing Way*.*
+### Translation Recommendation 
+
+If you're interested in translating but unsure where to begin, the chapters in the DSWB pathway offer a great starting point. As mentioned above, you can explore them directly here: [Pathway for DSWB on _the Turing Way_](https://book.the-turing-way.org/pathways/data-science-without-borders).
+
+
+*We encourage all interested community members to get in touch with Malvika and Precious, who will support you in navigating, using, and contributing to *The Turing Way*.*
