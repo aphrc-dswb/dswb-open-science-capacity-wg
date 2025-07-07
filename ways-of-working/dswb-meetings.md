@@ -15,7 +15,7 @@ Please subscribe to the community calendar to get these meetings added to your o
 - **Coordinators meeting:** Biweekly at **16:00 WAT on Tuesdays**, dates announced by the APHRC team.
 - **Meetings for partners and the steering committee representatives:** Quarterly, dates announced by the APHRC team.
 - **Annual in-person meetings:** Annually, dates are announced by the APHRC team.
-- **External meetings:** We periodically host public webinars or events that are open to external participants. These usually take place on Working Group (WG) meeting days, and invitations are shared via our social media channels.
+- **External meetings:** While the meetings mentioned above are mostly internal, we also periodically host public webinars and events open to external participants. These typically take place on Working Group (WG) meeting days, with invitations shared via our social media channels.
 
 
 ## Important Considerations
