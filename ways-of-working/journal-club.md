@@ -13,9 +13,9 @@ Our monthly meetings will convene on the first Wednesday of each month.
 
 | Date           | Team                       | Papers          | Led By |
 | -------------- | -------------------------- | ----------------- | ------------ |
-| 16 April 2025  | OSPO Now                   | [Phung e al, 2024](https://doi.org/10.1038/s41467-025-56826-6), [Zenodo slides](https://zenodo.org/records/15230100)|  Malvika & Precious |
-| 4 June 2025 | IRESSEF | [Frevent el al (2023)](https://academic.oup.com/jrsssc/article/72/2/450/7067910?login=false) and [Daffe et al (2022)](https://iwaponline.com/jwh/article/20/11/1654/91574/Water-sanitation-and-hygiene-access-in-Senegal-and) | Moctar and team |
-2 July 2025 | DGH  | TBA | TBA
+| 16 April 2025  | OSPO Now                   | [Phung et al. (2024)](https://doi.org/10.1038/s41467-025-56826-6), [Zenodo slides](https://zenodo.org/records/15230100)|  Malvika Sharan & Precious Onyewuchi|
+| 4 June 2025 | IRESSEF | [Frevent et al. (2023)](https://doi.org/10.1093/jrsssc/qlad017) and [Daffe et al (2022)](https://doi.org/10.2166/wh.2022.203) | Moctar Gnigue & Mouhamadou Lamine Daffe |
+2 July 2025 | DGH  | [Gao et al. (2024)](https://doi.org/10.1016/j.eswa.2023.122982), [Zenodo slides](https://zenodo.org/records/15808135) | Brenda Yankam
 6 August 2025 | APHRC  | TBA | TBA
 3 September 2025 | AHRI  | TBA | TBA
 1 October 2025 | IRESSEF  | TBA | TBA
