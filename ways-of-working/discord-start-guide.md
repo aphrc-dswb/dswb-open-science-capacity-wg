@@ -64,9 +64,11 @@ If another group member posts something of particular interest, you can choose t
 * When someone posts a brand-new item in a channel, anyone in the channel can reply directly to it, creating a thread. Threads allow separate conversations to take place in the group without confusion, and for members to choose which of those conversations to follow more closely.
 * To add a comment to a thread, click the right-pointing curved arrow to the right of an existing post. Images are attached above.
 
-#### Use \@channel, \@here and other handles sparingly
+#### Use \@everyone, \@here and any other general handle sparingly
 
-* If you type **\@everyone** or **\@here** or other general handles (**\@participants** or **\@instructors**, & **\@admin**) in a post or comment, that will send a notification to everyone in that channel. Please use this only for items that really do need everyone’s attention.
+* If you type general handles like **\@everyone** or **\@here** in a post or comment, that will notify everyone in that channel. Please use this only for items that do need everyone’s attention.
+
+If you are unsure what category the post you would like to make is under, feel free to ask Precious (@Precious GMT+1) on Discord for guidance.
 
 #### Respect the context of this shared space
 
@@ -83,7 +85,7 @@ If another group member posts something of particular interest, you can choose t
 
 #### Account Management
 
-* If you joined using two different email addresses, you may have unintentionally created two separate accounts. In this case, please contact Precious Onyewuchi. She can help you delete one of the accounts of your choice, allowing you to maintain a single active account linked to your preferred email address.
+* If you joined using two different email addresses, you may have unintentionally created two separate accounts. In this case, please contact Precious Onyewuchi (@Precious GMT+1). She can help you delete one of the accounts of your choice, allowing you to maintain a single active account linked to your preferred email address.
 
 ### SENDING PRIVATE/DIRECT MESSAGES (DMs)
 
@@ -105,4 +107,4 @@ Yes, you can send files (< 10 mb) in public channels and in direct messages.
 # References
 
 * To learn more about how to communicate in Discord, please refer to [their official support page](https://support.discord.com/hc/en-us/articles/360034632292-Sending-Messages).
-* The Discord section was adapted from _The Turing Way Community. (2025). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. 10.5281/ZENODO.3233853_.
+* The Discord section was adapted from the Slack start guide, originally on _The Turing Way Community. (2025). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. 10.5281/ZENODO.3233853_.
