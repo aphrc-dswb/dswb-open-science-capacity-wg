@@ -28,6 +28,7 @@ project:
         - file: open-science-wg.md
         - file: challenge-clinic.md
         - file: journal-club.md
+        - file: students-wg.md
     - file: github.md
     - file: zenodo.md
       children:
