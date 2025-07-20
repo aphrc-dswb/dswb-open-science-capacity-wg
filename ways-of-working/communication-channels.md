@@ -26,13 +26,13 @@ To learn more about Zenodo and how to share resources from your work, please ref
 
 ## Discord
 
-The DSWB Discord channel is where community members interact and communicate amongnst each other. We also have dedicated channels for the different WGs within the community. 
+The DSWB Discord channel is where community members interact and communicate amongst each other. We also have dedicated channels for the different WGs within the community. 
 
 We have a page dedicated to explaining more about how we use Discord. Find out more information [here](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/discord). 
 
 ## Different Community Meetings
 
-**Different kinds of meetings** are hosted within DSWB, as [listed here](https://www.google.com/search?q=./dswb-meetings.md).
+**Different kinds of meetings** are hosted within DSWB, as [listed here](https://dswb.africa/dswb-events/).
 
 Monthly project-wide meetings offer updates on the project’s progress, achievements, and upcoming events. Presentations by different team representatives provide a digestible format for community members, offering a snapshot of recent developments within DSWB.
 
