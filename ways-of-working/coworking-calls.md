@@ -15,7 +15,7 @@ You can read more about coworking in [_The Turing Way_ guide for collaboration](
 
 ![Flyer for the coworking calls in DSWB](https://github.com/user-attachments/assets/44b45d19-54db-43a7-a20c-c70027fcd9de)
 
-The OSPO Now team hosts a 1-hour coworking call each week on Wednesday from 15:00 EAT to 16:00 EAT.
+The OSPO Now team hosts a weekly 1-hour coworking call every Wednesday from 15:00 to 16:00 EAT, except during weeks when the Journal Club or Project Meeting takes place.
 
 The organisers ensure the smooth running of these calls on Zoom, with breakout room features that can be used by different groups joining during the call. 
 

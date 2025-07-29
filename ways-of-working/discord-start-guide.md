@@ -96,7 +96,8 @@ However, sometimes you want to start a private conversation. To do this, click o
 <img width="481" alt="Screenshot image displaying how to send a message on Discord" src="https://github.com/user-attachments/assets/ebd9ebbf-58a2-450a-8179-719761007404" />
 
 #### Direct message when necessary
-You may feel tempted to use DM instead of asking questions in dedicated channels. If an instructor believes others will benefit from the answer, they will probably encourage you to ask your question in the appropriate channel. If you have a question, others likely have the same one. We are all learning from each other.
+
+You may feel tempted to use DM instead of asking questions in dedicated channels. However, a guideline is to think about whether others will benefit from the answer of your question. If the answer is yes, then you are encouraged to ask your question in the appropriate channel. If you have a question, others likely have the same one. We are all learning from each other.
 
 That said, DM are useful to discuss privately with other people (one or many) and you don't want to flood a channel.
 

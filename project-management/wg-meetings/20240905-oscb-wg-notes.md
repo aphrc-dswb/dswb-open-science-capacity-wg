@@ -22,7 +22,7 @@
 
 ## ✍️ Notes
 
-**Data sharing policy from each partner organisation **
+**Data sharing policy from each partner organisation**
 
 **IRESSEF, Senegal:** Samba (legal), and Aminata: 
 
