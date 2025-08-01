@@ -33,6 +33,7 @@ Date: July 30th, 2025
 
 ## Previous Notes
 
-   * We worked on the Students WG page on the ways of working, and created a Pull Request. 
+   * Dr Anicet shared about the progress of the DGH Hackathon and the teams moving to the next stage.
+   * Precious and Mike did a walkthrough for the first external webinar the open science and capacity building WG would be hosting the next day.
       
-See [previous meeting note](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/coworking-calls/20250709-coworking-call-notes.md) for more information.
+See [previous meeting note](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/coworking-calls/20250723-coworking-call-notes.md) for more information.
