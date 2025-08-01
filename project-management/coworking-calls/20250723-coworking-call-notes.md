@@ -21,6 +21,6 @@ Date: July 23rd, 2025
 
 ## Previous Notes
 
-    * We worked on the Students WG page on the ways of working, and created a Pull Request. 
+   * We worked on the Students WG page on the ways of working, and created a Pull Request. 
       
 See [previous meeting note](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/coworking-calls/20250709-coworking-call-notes.md) for more information.
