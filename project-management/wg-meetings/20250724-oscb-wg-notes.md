@@ -158,3 +158,5 @@
 
 - **AI and Data Protection Risks?**  
   > Anticipate and mitigate through robust, human-centered policies.
+
+(ChatGPT was used to summarise some parts of the notes.)
