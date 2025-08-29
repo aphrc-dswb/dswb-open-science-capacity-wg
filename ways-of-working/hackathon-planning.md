@@ -32,11 +32,8 @@ Potential participants can be:
   - 15-minute demo or pitch video  
 
 ## Support and Workflow  
-Participants receive:  
-- Onboarding materials and technical guides  
-- Pre-event workshops on RL and synthetic data  
-- Cloud computing credits (AWS, Azure, GCP)  
-- GitHub repositories and collaboration tools (Slack, Zoom)  
+
+Participants will receive onboarding materials, technical guides, and access to workshops on RL and synthetic data. Cloud computing resources, GitHub repositories, and collaboration tools will be provided. Mentors with expertise in data quality, ML, domain interpretation, and software deployment will support participants through office hours and dedicated channels.
 
 Mentorship covers data quality, ML modeling, domain insights, and deployment.  
 
@@ -53,19 +50,15 @@ Mentorship covers data quality, ML modeling, domain insights, and deployment.
 - Most Innovative Approach  
 - Top Novice Hackers  
 
-**Special mentions:** Best Visualization, Cleanest Code, Most Improved Team.  
+Special recognition can be given for Best Visualization, Cleanest Code, and Most Improved Team.
+
 
 ## After the Event  
-- Open-source repository of all outputs  
-- Technical report and webinar series  
-- Feedback collection from participants and partners  
-- Impact tracked through repository engagement, collaborations, and citations  
+ Outputs will be published in an open repository, with a technical report and webinar series showcasing top teams. Feedback will inform future events. Impact will be tracked through repository engagement, collaborations, and citations. For example, the number of GitHub repositories forked or starred after the hackathon will be one of the primary metrics used to gauge its impact. 
 
 ## Future Roadmap  
-- Annual hackathon series with rotating locations  
-- Technical workshops on advanced RL methods  
-- Joint publications to share innovations  
-- Long-term goal: build an inclusive and sustainable framework for AI-driven record linkage in global health research.  
+
+The organisers can plan to establish an annual hackathon series with rotating locations, expand technical workshops on advanced RL, and encourage joint publications. The long-term goal is to build an inclusive, sustainable framework for AI-driven record linkage in global health research.  
 
 
 **Reference:** 
