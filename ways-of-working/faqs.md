@@ -32,7 +32,7 @@ The DSWB data sharing agreement is available here - [Add link once publicly avai
 <details>
 <summary><b> Can I practice my GitHub learning on our website? </b></summary>
 <br>
-Yes, please. We have a repository on our GitHub page for you to play around and test your GitHub knowledge. It is named "dswb-workshops". 
+Yes, please. You can use our <a href="https://github.com/aphrc-dswb/dswb-workshops">dswb-workshops</a> repository to play around and test your GitHub knowledge.
 
 <br>  
 <br> 
