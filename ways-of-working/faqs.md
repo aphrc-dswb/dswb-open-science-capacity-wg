@@ -16,7 +16,7 @@ Each Pathfinder organisation has a GitHub repository created to upload their wor
 <details>
 <summary><b> Where can I find records of previous meetings? </b></summary>
 <br>
-Previous meetings can be found on the DSWB website, <a href="https://dswb.africa/dswb-events/"> here </a>.
+Previous meetings can be found on the <a href="https://dswb.africa/dswb-events/">DSWB website</a>.
 External meetings are shared on Discord, and would soon be linked on the website. 
 <br>  
 <br> 
