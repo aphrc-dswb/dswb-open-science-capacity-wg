@@ -10,7 +10,7 @@ Each Pathfinder organisation has a GitHub repository created to upload their wor
 <br> 
 <strong> Note: </strong> It is important that the information uploaded on GitHub is not sensitive data. Kindly confirm with your Project Coordinator what is considered sensitive if you're unsure.
 
-<br> You can find the various repositories for each Pathfinder <a href="https://github.com/orgs/aphrc-dswb/repositories"> here </a>.
+<br> Here are the <a href="https://github.com/orgs/aphrc-dswb/repositories">various repositories</a> for each Pathfinder.
 </details>
 
 <details>
