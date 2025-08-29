@@ -36,7 +36,7 @@ Yes, please. You can use our <a href="https://github.com/aphrc-dswb/dswb-worksho
 
 <br>  
 <br> 
-Feel free to break it, you'd get help! The link is <a href="https://github.com/aphrc-dswb/dswb-workshops"> here </a>. 
+Don't worry if you break anything, we'll fix it!
 <br>
 </details>
 
