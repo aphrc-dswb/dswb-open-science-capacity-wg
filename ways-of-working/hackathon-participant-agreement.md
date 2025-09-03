@@ -1,6 +1,6 @@
 # Participant Agreement Template
 
-The template outlined below is the Participant Agreement template used in previous hackathons. 
+The template outlined below is the Participant Agreement template used in DSWB hackathons. 
 You can copy, reuse, and modify to fit your specific context. 
 
 Suggestions within the community on improvements are very welcome!
