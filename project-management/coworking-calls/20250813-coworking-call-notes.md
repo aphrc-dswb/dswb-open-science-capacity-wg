@@ -95,4 +95,4 @@ _Ng’etich, M., Odhiambo, R., Cygu, S., Nabukeera, B., Dube, A., Butichi, B., M
    * Briefing for the external webinar.
    * Mulugeta and Belayneh worked on their presentation for the Platform and Data Harmonization WG meeting.
       
-See [previous meeting note]([https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/coworking-calls/20250723-coworking-call-notes.md](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/coworking-calls/20250730-coworking-call-notes.md) for more information.
+See [previous meeting note](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/coworking-calls/20250730-coworking-call-notes.md) for more information.
