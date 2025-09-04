@@ -20,7 +20,7 @@ This page displays the [`hackathon-coc.md`](https://github.com/aphrc-dswb/dswb-o
 
 ## Case Studies
 
-You can find niche hackathon guidelines by members of the Data Science Without Borders (DSWB) Project:
+Below you can find hackathon guidelines for prior hackathons hosted by members of the Data Science Without Borders (DSWB) Project:
 - Bhattacharjee, T. (2025). Bridging Records: A Handbook for AI-Based Hackathon on Retrospective Record Linkage. Zenodo. https://doi.org/10.5281/zenodo.15799946
 
 
