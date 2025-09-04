@@ -72,7 +72,7 @@ The team name and addresses (the “Participants” or “Team”)
 ## Article 7 — MISCELLANEOUS
 
 7.1 **No Employment.** Participation does not create an employment relationship with the Host Institution.  
-7.2 **No Warranty.** All Hackathon materials are provided “as is.”  
+7.2 **No Warranty.** All Hackathon materials are provided “as is”.  
 7.3 **Entire Agreement.** This document constitutes the whole agreement and supersedes prior oral or written statements. Amendments must be in writing and signed by both parties.  
 7.4 **Severability.** If any clause is unenforceable, the remainder stays in force.  
 7.5 **Counterparts.** Signatures may be in counterparts and electronically exchanged.  
