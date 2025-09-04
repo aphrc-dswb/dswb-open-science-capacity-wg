@@ -50,7 +50,7 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
 📫 Contact
 ---
 
-For any organisation-related queries or concerns, you can directly reach out to **Malvika Sharan by emailing malvika@we-are-ols.org**.
+For any organisation-related queries or concerns, you can directly reach out to the **OSPO Now team** that maintains this repo at **osponow.dswb@gmail.com**.
 
 ♻️ License
 ---
