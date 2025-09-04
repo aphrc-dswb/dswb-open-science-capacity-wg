@@ -47,7 +47,6 @@ The team name and addresses (the “Participants” or “Team”)
 ## Article 4 — INTELLECTUAL PROPERTY
 
 4.1 **Background IP.** Each party retains all rights to inventions, code or materials created before the Hackathon or independently of it.  
-
 4.2 **Hackathon Deliverables (Foreground IP).**  
    a. During the event, the Team owns the code and other materials it develops.  
    b. The Team must place its submission in a public GitHub repository under an OSI-approved open-source licence of its choice (e.g., MIT, Apache-2.0) no later than seven (7) days after final judging.  
