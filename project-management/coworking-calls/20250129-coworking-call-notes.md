@@ -28,8 +28,6 @@
    * Resources that were mentioned:
       * [https://github.com/alan-turing-institute/Data-Study-Group](https://github.com/alan-turing-institute/Data-Study-Group)
       * [https://www.turing.ac.uk/collaborate-turing/data-study-groups](https://www.turing.ac.uk/collaborate-turing/data-study-groups) 
-   * 
-   * 
 
 
 ## Previous Notes
