@@ -9,13 +9,13 @@ Some of the documents we use are our Participant Agreement template and our Code
 ## Participant Agreement:
 
 ```{note}
-This page displays the [`hackathon-participant-agreement.md`](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/Preshh0-patch-12/ways-of-working/hackathon-participant-agreement.md), a base file with the Participant Agreement template for hackathons within DSWB.
+This page displays the [`hackathon-participant-agreement.md`](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/hackathon-participant-agreement/), a base file with the Participant Agreement template for hackathons within DSWB.
 ```
 
 ## Code of Conduct:
 
 ```{note}
-This page displays the [`hackathon-coc.md`](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/Preshh0-patch-12/ways-of-working/hackathon-coc.md), a base file with the Code of Conduct template for hackathons within DSWB.
+This page displays the [`hackathon-coc.md`](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/hackathon-coc/), a base file with the Code of Conduct template for hackathons within DSWB.
 ```
 
 ## Case Studies
