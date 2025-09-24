@@ -16,8 +16,8 @@ Our monthly meetings will convene on the first Wednesday of each month.
 | 16 April 2025  | OSPO Now                   | [Phung et al. (2024)](https://doi.org/10.1038/s41467-025-56826-6), [Zenodo slides](https://zenodo.org/records/15230100)|  Malvika Sharan & Precious Onyewuchi|
 | 4 June 2025 | IRESSEF | [Frevent et al. (2023)](https://doi.org/10.1093/jrsssc/qlad017) and [Daffe et al (2022)](https://doi.org/10.2166/wh.2022.203) | Moctar Gnigue & Mouhamadou Lamine Daffe |
 2 July 2025 | DGH  | [Gao et al. (2024)](https://doi.org/10.1016/j.eswa.2023.122982), [Zenodo slides](https://zenodo.org/records/15808135) | Brenda Yankam
-6 August 2025 | APHRC  | TBA | TBA
-3 September 2025 | AHRI  | TBA | TBA
+6 August 2025 | APHRC  | [Zenodo Slides](https://zenodo.org/records/16870688) | Rachel Odhiambo
+3 September 2025 | AHRI  | [Ambati, S. S. K. N. (2025)](https://doi.org/10.34218/IJCET_16_01_142), Zenodo Slides - TBA | Belayneh Dejene
 1 October 2025 | IRESSEF  | TBA | TBA
 5 November 2025 | DGH  | TBA | TBA
 3 December 2025 | APHRC  | TBA | TBA
