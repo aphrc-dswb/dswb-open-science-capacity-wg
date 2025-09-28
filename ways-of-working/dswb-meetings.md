@@ -8,10 +8,11 @@ For planning, hosting or attending events, please refer to the good practices of
 Please subscribe to the community calendar to get these meetings added to your own calendar: [Click this link to subscribe](https://calendar.google.com/calendar/ical/47502bf06531b55e6e23c00bc11c7dcdddcef193876eb6bdb463e4ddf7eb5d1e%40group.calendar.google.com/public/basic.ics).
 
 - **Project meetings:** Monthly at **14:00 WAT on Wednesdays**.
-- **Open Science and Capacity Building Working Group Meetings:** Biweekly at **14:00 WAT on Thursdays**. Details in {ref}`open-science-wg`.
+- **[Open Science and Capacity Building Working Group Meetings](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/open-science-wg/):** Biweekly at **14:00 WAT on Thursdays**. Details in {ref}`open-science-wg`.
 - **Data Platform and Harmonisation Working Group meetings:** Biweekly at **14:00 WAT on Thursdays**. It alternates on the week when the Open Science and Capacity Building Working Group meetings are not held.
-- **Coworking Calls:** Weekly, at **13:00 WAT on Wednesdays**, except the weeks when Journal Club, or the Project Meeting is hosted. Details in {ref}`coworking-calls`.
-- **Journal Club:** Monthly at **13:00 EAT on the first Wednesdays** of the month. Details in {ref}`journal-club`.
+- **[Students WG](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/students-wg/):** Once a month for an hour at **15:00 EAT** on the first Tuesday of the month.
+- **[Coworking Calls](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/coworking-calls/):** Weekly, at **13:00 WAT on Wednesdays**, except the weeks when Journal Club, or the Project Meeting is hosted. Details in {ref}`coworking-calls`.
+- **[Journal Club](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/journal-club/):** Monthly at **13:00 EAT on the first Wednesdays** of the month. Details in {ref}`journal-club`.
 - **Coordinators meeting:** Biweekly at **16:00 WAT on Tuesdays**, dates announced by the APHRC team.
 - **Meetings for partners and the steering committee representatives:** Quarterly, dates announced by the APHRC team.
 - **Annual in-person meetings:** Annually, dates are announced by the APHRC team.
