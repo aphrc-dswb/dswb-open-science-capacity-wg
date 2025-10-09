@@ -1,6 +1,6 @@
 # Data Science Without Borders Coworking Call 
 
-Date: August 8th, 2025
+Date: August 27th, 2025
 
 **Attendees:**
    * Frank A./Cameroon
@@ -34,9 +34,4 @@ Date: August 8th, 2025
 
    * We hosted Journal Club, led by the APHRC team.
       
-See [previous meeting note](## Previous Notes
-
-   * Briefing for the external webinar.
-   * Mulugeta and Belayneh worked on their presentation for the Platform and Data Harmonization WG meeting.
-      
-See [previous meeting note](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/coworking-calls/20250730-coworking-call-notes.md) for more information.) for more information.
+See [previous meeting note](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/coworking-calls/20250813-coworking-call-notes.md) for more information.
