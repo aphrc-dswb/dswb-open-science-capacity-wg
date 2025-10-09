@@ -21,4 +21,4 @@ Date: September 10th, 2025
 
    * New members from previous hackathons were onboarded to DSWB, and shared relevant resources.
       
-See [previous meeting note](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/coworking-calls/20250827-coworking-call-notes.md) for more information.) for more information.
+See [previous meeting note](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/coworking-calls/20250827-coworking-call-notes.md) for more information.
