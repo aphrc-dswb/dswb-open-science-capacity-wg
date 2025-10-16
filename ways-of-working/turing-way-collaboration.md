@@ -24,7 +24,7 @@ Members from across the DSWB community are encouraged to become active users of 
 
 DSWB members from the Open Science and Capacity Building Working Group have curated a set of chapters to guide data science practices and collaboration approaches in DSWB projects.
 
-Please explore these chapters in the [Pathway for DSWB](https://book.the-turing-way.org/pathways/data-science-without-borders) to learn about and tech selected set of practices important for different stages of project lifecycle.
+Please explore these chapters in the [Pathway for DSWB](https://book.the-turing-way.org/pathways/pathways-data-science-without-borders/) to learn about and tech selected set of practices important for different stages of project lifecycle.
 ```
 
 DSWB members actively collaborate with *The Turing Way* community to curate, read and share relevant data science practices in their networks.  
