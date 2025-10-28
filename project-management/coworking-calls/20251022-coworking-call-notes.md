@@ -1,10 +1,10 @@
-## Data Science Without Borders - Journal Club led by IRESSEF Team!
+## Welcome to Journal Club - Led by Moctar, IRESSEF Team!
 
 Date: October 22nd, 2025
 
 **Attendees:**
    * Precious
-   * Moctar
+   * Moctar - Presenter
    * Michael
    * Nyasita
    * Ousmane
