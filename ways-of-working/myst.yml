@@ -30,6 +30,7 @@ project:
         - file: journal-club.md
         - file: dswb-meetings/journal-club/journal-club-checklist.md
         - file: students-wg.md
+        - file: ohdsi-methods-wg.md
     - file: github.md
     - file: zenodo.md
       children:
