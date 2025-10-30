@@ -27,7 +27,7 @@ You can learn about the Pathfinder Institutions on our website: https://dswb.afr
 Below are the primary representatives from these institutions:
 
 - **Douala General Hospital** (DGH): Prof. Mbatchou Bertrand (Principal Investigator) and Dr. Anicet Onana (Project Coordinator)
-- **Armauer Hansen Research Institute** (AHRI): Dr. Alemseged Abdisa (Principal Investigator) and Yordanos Sentayehu (Project Coordinator)
+- **Armauer Hansen Research Institute** (AHRI): Dr. Alemseged Abdissa (Principal Investigator) and Yordanos Sentayehu (Project Coordinator)
 - **Institut de Recherche en Santé de Surveillance Epidémiologique et de Formations** (IRESSEF): Dr. Moussa SARR (Principal Investigator) and Dr. Moctar Gningue (Project Coordinator)
 
 ## Technical Partners
