@@ -14,7 +14,7 @@ External-facing webinars are projected to be held once every month.
 | August 7, 2025 | Federation and Synthetic Data Generation | BHKi |
 | September 4, 2025 | Cancelled | BHKi |
 | October 2, 2025 | FAIR Data Sharing and Federated Analysis | BHKi |
-| October 30, 2025 | TBD | BHKi |
+| October 30, 2025 | Did not hold | BHKi |
 | November 27, 2025 | TBD | BHKi |
 
 ---
