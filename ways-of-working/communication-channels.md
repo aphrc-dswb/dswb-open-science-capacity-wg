@@ -40,12 +40,12 @@ Monthly project-wide meetings offer updates on the project’s progress, achieve
 
 [Working Group meetings](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/ways-of-working/open-science-capacity-building-working-group.md) serve the purpose of fostering Communities of Practice within the DSWB community around shared interests.
 
-Monthly {ref}`journal-club` and periodic {ref}`challenge-clinic` as part of the Open Science and Capacity Building Working Group are hosted to engage community on recent publications and discuss challenges openly.
+{ref}`journal-club` and periodic {ref}`challenge-clinic` as part of the Open Science and Capacity Building Working Group are hosted to engage the community on recent publications and discuss challenges openly.
 
 Additional meetings with suitable formats for specific groups (such as hackathons, Turing Way Book Dash etc.) are hosted by different teams to build cohesiveness and alignment.
 
-Please subscribe to our community calendar to add these meetings to your own calendar: https://bit.ly/dswb-community-calendar.
-If your event is not listed in the calendar already, please contact the DSWB coordinator from your team, or reach out to Precious.
+Please subscribe to our community calendar to get the schedule of these meetings to your own calendar: https://bit.ly/dswb-community-calendar.
+If your event is not listed in the calendar already, please contact the DSWB coordinator from your team, or reach out to Precious (precious@osponow.com).
 
 ## _The Turing Way_ Book Chapters
 
