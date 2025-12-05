@@ -85,3 +85,11 @@ For introduction and relevant details about open science practices, please refer
 * DSWB members, supported by technical partners like OSPO Now, will actively promote the principles of open science and advocate for their adoption within the broader global health and development community.
 * DSWB members will disseminate their projects and open science guidelines applied in their work through their website, publications, and other communication channels.
 * DSWB will engage with policymakers, funders, and local stakeholders to promote open science and data sharing.
+
+### References:
+
+* The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2). Zenodo. DOI The Turing Way Community (2025).
+* More specifically:
+     * The FAIR Principles: https://book.the-turing-way.org/reproducible-research/rdm/rdm-fair/
+     * Code Review: https://book.the-turing-way.org/communication/peer-review/peer-review-code/#sharing-code-review-experiences
+     * Licensing: https://book.the-turing-way.org/reproducible-research/licensing/
