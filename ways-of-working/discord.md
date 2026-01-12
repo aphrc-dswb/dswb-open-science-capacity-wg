@@ -1,6 +1,10 @@
 (discord)=
 # Discord - Synchronous Communications
 
+> [!NOTE]  
+> As a community, we're sunsetting Discord by the end of February 2026.
+> This guide may not be relevant to the community soon, but will exist for documentation purposes.  
+
 A **Discord workspace** has been established and is maintained by the OSPO Now team for the DSWB community. You can use this [joining link](https://discord.com/app/invite-with-guild-onboarding/MngBuwrw) to connect and utilise its features.
 
 This platform offers a lightweight solution for instant messaging and audio calls, facilitating quick exchanges and real-time collaborations among team members. Different channels provide structured spaces where people can ask questions, learn about each other’s work, and get involved with community projects. While it is not the only communication channel used by the community, it is a popular platform, increasingly used for enhancing direct interactions among different teams.
