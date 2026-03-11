@@ -197,5 +197,8 @@ data science within Africa.
 
 **00:55-00:60[⏰ 5min] Closing remarks**
 
-  * We had an external webinar session on Visual Architecture for Research Communication: Making Complex Studies Crystal Clear. 
+### Notes from previous meeting
+
+  * We had an internal session on Visual Architecture for Research Communication: Making Complex Studies Crystal Clear, led by one of our pathfinder institutions, Douala General Hospital (DGH), Cameroon.
+  
 More details can be found [here](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/wg-meetings/20250918-oscb-wg-notes.md).
