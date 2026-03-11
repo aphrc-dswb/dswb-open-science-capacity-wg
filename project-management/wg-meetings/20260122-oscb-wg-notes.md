@@ -287,5 +287,5 @@ Key principle:
 
 
 ### Notes
-- You can watch the webinar here: https://youtu.be/wcTVrVW5b-8?si=R1or5tdRw_0kvVlt. 
+- You can watch the webinar here: https://youtu.be/wcTVrVW5b-8?si=wf0tAPyZ4rJD1_12. 
 - This is our first webinar of the year, 2026. Previous year webinars and WG meetings notes can be found [here](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/wg-meetings).
