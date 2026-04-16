@@ -4,46 +4,7 @@
 
 **Date:** January 22nd, 2026  
 
----
-
-# 🗣️ Welcome!
-
-### Introduction  
-
-**Host:** Nyasita Ondari (Precious + Michael)
-
-**00:05 - 00:06 [⏰ 1min]** Welcoming note
-
-***
-
-We have a code of conduct -  
-https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/coc  
-
-If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers – **Nyasita** and **Precious** (osponow.dswb@gmail.com).
-
-This call is being recorded.
-
-- The video may be shared with others  
-- Turn on your webcam if you don't mind sharing your face (or leave it off if you prefer)
-
-All notes will be taken in Framapad and archived on the public **DSWB GitHub**, including your name and response. You may use a pseudonym or add an emoji 🤫 if you do not want to be included.
-
-To request removal, email **precious@osponow.com** or **osponow.dswb@gmail.com**.
-
-AI note-takers will also be removed from the call for privacy and safety reasons. You will receive the recording and notes from this session after the call.
-
----
-
-# 📣 Agenda
-
-### **00:06 - 00:10 [⏰ 5min]**  
-DSWB Project Presentation
-
----
-
 # 👋 Icebreaker
-
-### **00:10 - 00:15 [⏰ 5min]**
 
 **Name (or pseudonym or emoji) / Organisation / One thing you hope to learn or take away from this session**
 
@@ -52,11 +13,7 @@ DSWB Project Presentation
 - Rispah / Moi University / How decolonising data vs open science works  
 - Dr. Peter / Karatina University / How to combine and freely share data for informed decisions and policy making  
 
----
-
-# 🖥 Presentation – Prof. Sharifah Sekalala
-
-### **00:15 - 00:55 [⏰ 40min]**
+# 🖥 Presentation – Prof. Sharifah Sekalala (40 mins)
 
 ## Speaker Bio
 
@@ -96,8 +53,6 @@ She is an interdisciplinary researcher working at the intersection of internatio
 
 Law can therefore also be used to challenge unequal data practices.
 
----
-
 ## CARE Principles
 
 CARE principles centre communities in data governance.
@@ -125,8 +80,6 @@ Examples include:
 Example question:
 
 > How does a vaccine trial contribute to long-term vaccine justice?
-
----
 
 ### Structural Challenges
 
@@ -159,27 +112,12 @@ This requires:
 
 ---
 
-## Questions (Open to the audience)
-
-- At what level should data be controlled before being shared? Because uncleaned data can mislead the findings and policy-making. - Dr. Peter
-
-**Audience Question**
-
-- Community-centred research takes longer.  
-  How can researchers communicate the importance of this slower, more participatory process to funders?
-
----
-
-# 🖥 Presentation – Dr Joyce Kao
-
-### **00:55 - 01:30 [⏰ 40min]**
+# 🖥 Presentation – Dr Joyce Kao (40 mins)
 
 **Presenter:** Dr Joyce Kao  
 
 **Slides:**  
 https://docs.google.com/presentation/d/14W9qE9vAEbXDvXlZn_E-TfE1iq3tSs0qBADIJWmAUBk/edit
-
----
 
 ## Speaker Bio
 
@@ -286,6 +224,6 @@ Key principle:
 > Learn continuously and adapt.
 
 
-### Notes
+### Ending Note
 - You can watch the webinar here: https://youtu.be/wcTVrVW5b-8?si=wf0tAPyZ4rJD1_12. 
 - This is our first webinar of the year, 2026. Previous year webinars and WG meetings notes can be found [here](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/wg-meetings).
