@@ -4,53 +4,6 @@
 
 **Date:** 19th February, 2026
 
----
-
-# 🗣️ Welcome
-
-## Introduction  
-**Host:** Nyasita Ondari (Precious + Michael)
-
-**00:05 – 00:06 [⏰ 1 min]**  
-Welcoming note
-
----
-We have a code of conduct - [https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/coc](https://aphrc-dswb.github.io/dswb-open-science-capacity-wg/coc)
-
-       * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Nyasita, and Precious. (osponow.dswb@gmail.com).
-
-This call is being recorded.
-
-       * The video may be shared with others
-       * Turn on your webcam if you don't mind sharing your face (or off if you do)
-
----
-
-## Notes and Privacy
-
-All notes will be taken in Framapad and archived on the public DSWB GitHub, including your name and response.
-
-You may use a pseudonym or add an emoji 🤫 if you don’t want to be included.
-
-To request removal, email:
-
-- precious@osponow.com  
-- osponow.dswb@gmail.com
-
-AI notetakers will also be removed from the call for privacy and safety reasons.
-
-You will receive the recording and notes from this session after the call.
-
----
-
-# Agenda
-
-## 00:06 – 00:10 [⏰ 5 min]  
-### DSWB Project Presentation
-
----
-
-## 00:10 – 00:15 [⏰ 5 min]
 
 ### 🌍 Icebreaker Question
 
@@ -59,25 +12,16 @@ You will receive the recording and notes from this session after the call.
 - Nyasita / ospo / yes but vaguely  
 - Precious / OSPO Now / I have a fair idea
 
----
 
-# Main Presentation
+# Speaker — Max Kintisch
 
-## 00:15 – 00:55 [⏰ 40 min]
-
-### 🖥 Presentation — Max Kintisch
-
----
-
-## Introduction of the Speaker
+### Speaker Bio
 
 Max joined the DPGA in 2022 and has 15 years of experience working for meaningful, open, and inclusive public sector innovation.
 
 Prior to joining the DPGA, he was the Global Lead for I-CoDI, ITU’s International Center of Digital Innovation, and founded, supported, and mobilised financing for several other social impact initiatives and ventures.
 
 In addition to his role as CFO, Max empowers members to align, collaborate, and cooperate around a shared vision for digital cooperation based on digital public goods.
-
----
 
 # Notes
 
@@ -176,8 +120,6 @@ Additional insights:
 - Companies would have to pay about **3.5× more** for proprietary software.
 - For every **€1 invested in open source**, about **€4–5 in public value** is generated.
 
----
-
 ## DPGs for DPI
 
 Countries can use DPGs to build components of their digital public infrastructure in a safe, inclusive, and interoperable way.
@@ -238,8 +180,6 @@ Fewer are in:
 - Africa  
 - South America  
 - Oceania
-
----
 
 ### Some DPGs in Africa
 
@@ -364,12 +304,6 @@ African actors are not just implementers — they are redefining how digital pub
 - Digital Public Goods Standard: https://www.digitalpublicgoods.net/standard
 
 
-## Questions (Open to the Audience)
-
-- Is the data on the distribution of DPGs that you have shared in the slides tagged to or from the DPGA member states only? Potentially explaining why the low numbers? **Anthony S.**  
-- What are the criteria for an open source tool becoming a DPG? **Daniel A.**  
-- There are constraints to open source solutions on the continent relating to sustainability and long-term continuity (backend updates and changing government priorities). How is DPGA trying to mitigate the mortality of open-source DPGs, especially in contexts with low infrastructure development and institutional readiness? **Anthony S.** 
-
-### Notes
+### Ending notes
 - You can watch the webinar here: https://youtu.be/wcTVrVW5b-8?si=R1or5tdRw_0kvVlt.
 - Previous webinar notes on Building FAIR, Decolonized Data Practices can be found [here](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/wg-meetings/20260122-oscb-wg-notes.md).
