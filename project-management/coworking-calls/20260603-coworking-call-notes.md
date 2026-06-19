@@ -1,4 +1,4 @@
-## Welcome to Journal Club - Led by Fikregabriel Aberra (PhD), AHRI Team!
+## Welcome to Journal Club - Led by Alvin Nahabwe, Makerere AI!
 
 Date: June 3rd, 2026
 
