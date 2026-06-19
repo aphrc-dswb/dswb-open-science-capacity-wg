@@ -77,5 +77,5 @@ Africa, as a continent, faces inequality in the quality of research for infectio
        * Provides locally tailored solutions to regional challenges
 
 ### Ending notes:
-- You can watch the webinar here: [Link to be added once available].
+- You can watch the webinar here: https://youtu.be/lsBI9i0-bjk?si=uI2GiXysYvrIAcvW.
 - Previous webinar notes on Reproducibility in the age of AI can be found [here](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/wg-meetings/20260319-oscb-wg-notes.md).
