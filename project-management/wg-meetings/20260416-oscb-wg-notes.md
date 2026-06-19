@@ -10,8 +10,9 @@
 **Name (or pseudonym or emoji) /  Organisation / One thing you hope to learn or take away from this session?**
 
    * Nyasita/OSPO Now/Learn more about open source initiatives
-   * Goodnews Sandy / African Union/Open Data platforms for Africa
-   * Gemma Turon / Ersilia / hear about organisations working in the open source space
+   * Goodnews / African Union/Open Data platforms for Africa
+   * Gemma / Ersilia / hear about organisations working in the open source space
+   * (Other attendees did not record their names)
 
 # Speaker - Abel Legese (represented by Inés Vicente, Program Manager and Marina Miñarro, Lead Software Engineer)
 
