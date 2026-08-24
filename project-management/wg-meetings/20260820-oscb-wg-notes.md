@@ -133,4 +133,6 @@ Legal Architecture Exists, but the Domestication Lags
   
 #### Ending notes:
 - You can watch the webinar here: [Link to be added once available].
-- Previous webinar notes on Reproducibility in the age of AI can be found [add link]
+- Previous webinar notes on Reproducibility in the age of AI can be found [here](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/wg-meetings/20260716-oscb-wg-notes.md).
+
+(AI has been used to structure notes from the original notes on Framapad.)
