@@ -57,9 +57,7 @@ Open Science means making research:
 
 **Open access papers enable access.**
 
-#### Tip
-
-Budget for open access publication fees from the beginning of the research process.
+**Tip:** Budget for open access publication fees from the beginning of the research process.
 
 ### Open Science Research Life Cycle
 
