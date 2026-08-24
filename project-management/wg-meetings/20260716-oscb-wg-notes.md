@@ -134,3 +134,5 @@ Budget for open access publication fees from the beginning of the research proce
 ### Ending notes:
 - You can watch the webinar [here](https://youtu.be/Rxnb8JIlPWI?si=ldmjyS5tKpjg-Zs8).
 - Previous webinar notes on Reproducibility in the age of AI can be found [here](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg/blob/main/project-management/wg-meetings/20260618-oscb-wg-notes.md).
+
+(AI has been used to structure notes from the original notes on Framapad.)
