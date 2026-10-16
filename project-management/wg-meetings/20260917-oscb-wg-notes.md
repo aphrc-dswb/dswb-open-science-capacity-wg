@@ -90,6 +90,15 @@ Caleb is an adjunct lecturer at Pwani University and is a former Mozilla Open Sc
        * A TRE is not a technical barrier — it is a governance mechanism that makes collaboration possible under conditions that protect sovereignty.
    * The goal is not openness for its own sake. The goal is impact that stays - in communities, in clinics, in African institutions.
 
+**Questions (Open to the audience) - These are answered on the call. YouTube link with call recording is at the end of the page.**
+
+- With the legal data fragmentation, and every country having its own legal frameworks, are there efforts to unify these frameworks thus far? Would there be unforeseen complications with this unification?
+  
+- With the friction between funder interests and government policies, who is protecting researchers? How do they choose who to align with?
+  
+- When researchers were hit with travel restrictions due to sharing Omicron sequences, what should have been the appropriate response from the government of the country that hosted these researchers?
+  
+- Many countries already collect large volumes of health data.  How can we ensure that open-data initiatives move beyond simply publishing datasets and actually translate data into evidence for health planning and policy decisions?
   
 ### Ending notes:
 - You can watch the webinar [here](https://www.youtube.com/watch?v=CkFLcntULlI&list=PLjRAZX_rZsW2CEvbqk-NjmGQQin87njGL&index=1).
